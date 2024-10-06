@@ -6,7 +6,7 @@
       {
         "id": "2936164c56bf377c",
         "type": "tabs",
-        "dimension": 68.23248407643312,
+        "dimension": 71.2579617834395,
         "children": [
           {
             "id": "aee96623ea052d4b",
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aksjomaty Peany.md",
+                "file": "Algebra Peany.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norma maximum.md",
+                "file": "Norma wektora nad R.md",
                 "mode": "source",
                 "source": false
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norma wektora.md",
+                "file": "Norma wektora nad R.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,7 +350,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bez nazwy.md",
+                "file": "Norma wektora nad R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8f199ef54bdafcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra Peany.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0251228fe1408e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aksjomaty ZFC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f983dca63710db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twierdzenie Diniego, I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66b4820433eec253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norma wektora nad R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05afd811053a42fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pochodzenie etyki - Mary Midgley.md",
                 "mode": "source",
                 "source": false
               }
@@ -362,19 +422,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norma wektora.md",
+                "file": "Norma wektora nad R.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 33
       },
       {
         "id": "96f7629104b022dd",
         "type": "tabs",
-        "dimension": 31.76751592356688,
+        "dimension": 28.742038216560513,
         "children": [
           {
             "id": "357821ab0186b297",
@@ -450,7 +510,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bez nazwy.md",
+                "file": "Pochodzenie etyki - Mary Midgley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,7 +527,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bez nazwy.md",
+                "file": "Pochodzenie etyki - Mary Midgley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -490,7 +550,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bez nazwy.md"
+                "file": "Pochodzenie etyki - Mary Midgley.md"
               }
             }
           }
@@ -511,33 +571,33 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "7db06fe45e80330e",
+  "active": "05afd811053a42fc",
   "lastOpenFiles": [
-    "Metryka generowana przez p-normę.md",
-    "Bez nazwy.md",
-    "p-norma.md",
+    "Zbiór ilorazowy.md",
+    "Zbiór zwarty.md",
+    "Zbiór otwarty.md",
+    "Zbiór ograniczony.md",
+    "Zbiory mocy continuum.md",
+    "Zbiory co najwyżej przeliczalne.md",
+    "Wektor własny.md",
+    "Norma wektora nad R.md",
     "Norma euklidesowa.md",
-    "Norma wektora.md",
+    "Nierówność trójkąta.md",
     "Norma.md",
-    "Przestrzeń afiniczna.md",
-    "Własności topologii.md",
-    "Iloczyn skalarny.md",
-    "Forma dwuliniowa.md",
-    "Forma kwadratowa na przestrzeni liniowej.md",
-    "Forma n-liniowa.md",
-    "Indeksowane rodziny zbiorów.md",
-    "Funkcje.md",
-    "Podział zbioru.md",
-    "Kula.md",
-    "Kryteria zbieżności całek niewłaściwych.md",
-    "Kongurencja algebry.md",
-    "Klasa równoważności.md",
     "Metryka.md",
-    "Metryka dyskretna.md",
-    "Łańcuch.md",
+    "Nierówność Cauchy'ego.md",
+    "Nierówność Bernoulliego.md",
+    "Nierówności między średnimi.md",
+    "Długością wektora.md",
+    "p-norma.md",
+    "Metryka generowana przez p-normę.md",
     "Metryka euklidesowa.md",
+    "Metryka dyskretna.md",
+    "Klasa równoważności.md",
+    "Kongurencja algebry.md",
+    "Kryteria zbieżności całek niewłaściwych.md",
     "Kryteria zbieżności szeregów.md",
-    "Lemat Kuratowskiego - Zorna.md",
-    "Nierówność Cauchy'ego.md"
+    "Iloczyn skalarny.md",
+    "Iloczyn hermitowski.md"
   ]
 }
