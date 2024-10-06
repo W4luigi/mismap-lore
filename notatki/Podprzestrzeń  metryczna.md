@@ -1,0 +1,2 @@
+##  Niech $(X,d)$ będzie [[Przestrzeń metryczna|przestrzenią metryczną]], $A \subseteq X$, $d_A = d|_{A\times A}$.
+## Wówczas $d_A$ jest metryką na $A$. Mówimy, że $(A, d_A)$ jest **podprzestrzenią metryczną** w $(X,d)$.

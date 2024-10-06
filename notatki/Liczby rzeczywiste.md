@@ -1,4 +1,4 @@
-# Liczby rzeczywiste $\mathbb{R}$ spełniają aksjomaty [[Aksjomaty ciała przemiennego|aksjomaty ciała przemiennego]], oraz dodatkowo
+# Liczby rzeczywiste $\mathbb{R}$ spełniają aksjomaty [[Ciało przemienne|aksjomaty ciała przemiennego]], oraz dodatkowo
 ## **Aksjomaty porządku**:
 ### N.1  (Prawo trichotomii) dla wszystkich $x,y \in \mathbb{R}$ zachodzi dokładnie jedna z trzech możliwości: $x<y \vee x=y \vee y<x$ 
 ### N.2 (Przechodniość) $\forall x,y,z \in \mathbb{R}: \: (x<y \vee y<z) \implies x<z$ 

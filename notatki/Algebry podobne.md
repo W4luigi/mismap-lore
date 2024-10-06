@@ -1,2 +1,2 @@
-## Dwie [[Algebra (algebra ogólna)|algebry]]: $\mathbb{A}=<A,a_1,...,a_m,f_1,...,f_n>$ $\mathbb{B}=<B,b_1,...,b_r,g_1,...,g_s>$ nazywamy **algebrami podobnymi**, **algebrami tego samego typu**, gdy $m=r$, $n=s$ i  gdy dla każdego $i$ $f_i$oraz $g_i$  są działaniami o tej samej liczbie argumentów.
-### Przykład: algebry $<\mathbb{R},0,1,+,\cdot>$, $<\mathbb{Q},0,1,+,\cdot>$ są podobne.
+## Dwie [[Algebra (algebra ogólna)|algebry]]: $\mathbb{A}=(A,a_1,...,a_m,f_1,...,f_n)$ $\mathbb{B}=(B,b_1,...,b_r,g_1,...,g_s)$ nazywamy **algebrami podobnymi**, **algebrami tego samego typu**, gdy $m=r$, $n=s$ i  gdy dla każdego $i$ $f_i$oraz $g_i$  są działaniami o tej samej liczbie argumentów.
+### Przykład: algebry $(\mathbb{R},0,1,+,\cdot)$, $(\mathbb{Q},0,1,+,\cdot)$ są podobne.

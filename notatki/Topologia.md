@@ -1,0 +1,2 @@
+## Niech $(X,d)$ będzie [[Przestrzeń metryczna|przestrzenią metryczną]].
+## Rodzinę wszystkich zbiorów otwartych w ($X,d$) nazywamy **topologią przestrzeni metrycznej $(X,d)$** lub  **topologią generowaną przez metrykę $d$**: $\mathcal{T}(d)  = \{\mathcal{U}\subseteq X$ : $\mathcal{U}$  jest [[Zbiór otwarty|zbiorem otwartym]]$\}$

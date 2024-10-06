@@ -37,14 +37,118 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norma.md",
+                "file": "Przestrzeń liniowa.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2859c0a10fa0f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twierdzenie spektralne (rzeczywiste).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05d81662b0f0e5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twierdzenie spektralne (zespolone).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb9adbe2ef1be9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twierdzenie Cayleya - Hamiltona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd4d146e901506e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aksjomaty Peany.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bff096b194101092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metryka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cf3fee2e81f86e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metryka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c73230715f5dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twierdzenia o przestrzeniach metrycznych.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f86b9e7beb0a7444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indeksowane rodziny zbiorów.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4a5c3b91400ac27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -110,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Norma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Norma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +251,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Norma.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,33 +271,33 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "983eab01294e0499",
+  "active": "d4a5c3b91400ac27",
   "lastOpenFiles": [
-    "Pierścień zbiorów.md",
-    "Pierwiastki n-tego stopnia.md",
-    "Zasada abstrakcji.md",
-    "Wstęp do wstępu.md",
-    "Twierdzenie o definiowaniu przez indukcję.md",
-    "Twierdzenie Zermelo o dobrym uporządkowaniu.md",
-    "Twierdzenie o dobrym uporządkowaniu.md",
-    "Bez nazwy.md",
-    "Zbiory co najwyżej przeliczalne.md",
-    "Zbiory mocy continuum.md",
-    "Zbiór ilorazowy.md",
-    "Zbiór ograniczony.md",
+    "Twierdzenia o przestrzeniach metrycznych.md",
+    "Indeksowane rodziny zbiorów.md",
+    "Topologia.md",
+    "Podprzestrzeń  metryczna.md",
+    "Metryka.md",
+    "Przestrzeń metryczna.md",
+    "Metryka maximum.md",
+    "Metryka sumy.md",
+    "Metryka  kolejowa.md",
+    "Metryka euklidesowa.md",
+    "Kula.md",
     "Zbiór otwarty.md",
     "Zbiór zwarty.md",
-    "Podział zbioru.md",
-    "Porządek liniowy.md",
-    "Relacje.md",
-    "Relacja (dwuargumentowa).md",
-    "Kryteria zbieżności całek niewłaściwych.md",
-    "Kongurencja algebry.md",
-    "Klasa równoważności.md",
-    "Indukcja pozaskończona.md",
-    "Grupa.md",
-    "Indeksowane rodziny zbiorów.md",
-    "Funkcje.md",
-    "Drugie twierdzenie Diniego.md"
+    "Zbiór ograniczony.md",
+    "Zbiór ilorazowy.md",
+    "Zbiory mocy continuum.md",
+    "Zbiory co najwyżej przeliczalne.md",
+    "Zasada abstrakcji.md",
+    "Wstęp do wstępu.md",
+    "Twierdzenie Zermelo o dobrym uporządkowaniu.md",
+    "Twierdzenie spektralne (zespolone).md",
+    "Twierdzenie spektralne (rzeczywiste).md",
+    "Twierdzenie o definiowaniu przez indukcję.md",
+    "Twierdzenie Jordana.md",
+    "Twierdzenie Cantora - Bernsteina.md",
+    "Twierdzenie Cantora.md"
   ]
 }

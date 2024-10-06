@@ -1,5 +1,5 @@
-## Niech [[Relacje równoważności|relacja równoważności]] $\equiv$ będzie [[Kongurencja algebry||kongurencją w algebrze]] $\mathbb{A}=\:<A, a_1, a_2, ..., a_m,  f_1,  f_2, ..., f_n>$.
-## Można wówczas utworzyć algebrę $\mathbb{B}=\:<A/\equiv, b_1, b_2, ..., b_m,  g_1,  g_2, ..., g_n>$:
+## Niech [[Relacje równoważności|relacja równoważności]] $\equiv$ będzie [[Kongurencja algebry||kongurencją w algebrze]] $\mathbb{A}=\:(A, a_1, a_2, ..., a_m,  f_1,  f_2, ..., f_n)$.
+## Można wówczas utworzyć algebrę $\mathbb{B}=\:(A/\equiv, b_1, b_2, ..., b_m,  g_1,  g_2, ..., g_n)$:
 ## (1) Podobną do $\mathbb{A}$, 
 ## (2) Której nośnikiem jest [[Zbiór ilorazowy|zbiór ilorazowy]] $A/\equiv$, 
 ## (3) Elementy wyróżnione są klasami abstrakcji odpowiednich elementów wyróżnionych algebry $\mathbb{A}$:

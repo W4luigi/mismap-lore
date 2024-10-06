@@ -1,4 +1,4 @@
-## Algebra Peany to [[Algebra (algebra ogólna)|algebra]] $<A,a,f>$ spełniająca aksjomaty:
+## Algebra Peany to [[Algebra (algebra ogólna)|algebra]] $(A,a,f)$ spełniająca aksjomaty:
 ### (1) $a \in A$
 ### (2) $f: A \rightarrow A$
 ### (3) $a \notin R_f$
