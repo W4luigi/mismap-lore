@@ -5,6 +5,7 @@
 
 ## **Przykłady**:
 ### (1) [[Metryka euklidesowa]]
-### (2) [[Metryka  kolejowa]]
+### (2) [[Metryka kolejowa]]
 ### (3) [[Metryka sumy]]
 ### (4) [[Metryka maximum]]
+### (5) [[Metryka dyskretna]]

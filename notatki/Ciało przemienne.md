@@ -1,4 +1,4 @@
-# Algebra $\mathcal{X} = <X,0,1,+,\cdot>$   jest ciałem przemiennym, gdy spełnione są aksjomaty:
+# Algebra $\mathbb{K} = <X,0,1,+,\cdot>$   jest ciałem przemiennym, gdy spełnione są aksjomaty:
 ## A.1 $\forall x,y \in X\: x+y = y+x$
 ## A.2 $\forall x,y,z \in X\: x+(y+z) = (x+y)+z$
 ## A.3 $\forall x \in X\: x+0 = x$

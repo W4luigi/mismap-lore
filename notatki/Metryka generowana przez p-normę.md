@@ -1,0 +1,1 @@
+## Na zbiorze $\mathbb{R}$ można rozważać 

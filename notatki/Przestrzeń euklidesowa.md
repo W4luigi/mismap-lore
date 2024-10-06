@@ -1,0 +1,1 @@
+## Parę $(V, <,>)$, gdzie $V$ jest skończenie wymiarową [[Przestrzeń liniowa|przestrzenią liniową]], a $<,>$ jest [[Iloczyn skalarny|iloczynem skalarnym]] nazywamy **przestrzenią euklidesową liniową**

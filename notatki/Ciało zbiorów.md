@@ -9,6 +9,6 @@
 ### (d) Jeśli $\mathcal{A}$ jest ciałem podzbiorów $S$, to $\{\emptyset,S\} \subseteq \mathcal{A} \subseteq \mathcal{P}(S)$ 
 ## **Twierdzenie**
 ### Niech $\mathcal{B}$ będzie dowolną rodziną podzbiorów przestrzeni $S$:  $\mathcal{B} \subseteq \mathcal{P}(S)$. Istnieje $\mathcal{A}$ zawierające rodzinę $\mathcal{B}$, tj. zbiór: o własnościach:
-#### (1)$\mathcal{B}\subseteq \mathcal{A}$
+#### (1) $\mathcal{B}\subseteq \mathcal{A}$
 #### (2) Jeśli $\mathcal{C}$ jest ciałem zbiorów i $\mathcal{B} \subseteq \mathcal{C}$, to $\mathcal{A} \subseteq \mathcal{C}$
 ## Najmniejsze ciało podzbiorów rodziny $S$ nazywamy **ciałem zbiorów generowanym przez rodzinę $\mathcal{B}$**.
