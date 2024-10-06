@@ -1,0 +1,2 @@
+## Niech $r$ będzie [[Relacje równoważności|relacją równoważności]] w zbiorze $A \neq \emptyset$. 
+## **Klasą równoważności** lub **klasą abstrakcji** elementu $a \in A$ nazywamy zbiór $[a]_r = \{x \in A: x\: r\: a\}$

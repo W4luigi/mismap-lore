@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "750ca4ddf1736a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2936164c56bf377c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee96623ea052d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kongurencja algebry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e79c90278a23544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zasada abstrakcji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "983eab01294e0499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62c70eae72e8d9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61dfaac6c46d0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e256e96eafae490",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2772c9cd83c32618",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e9ceca707660a03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81baae406cc65f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "1145d2342371283e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e260e8462c43135f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Norma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d7eda376096720b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Norma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe8dfcbdfb1e6dc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c59ac02a4f1e6b91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Norma.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "983eab01294e0499",
+  "lastOpenFiles": [
+    "Pierścień zbiorów.md",
+    "Pierwiastki n-tego stopnia.md",
+    "Zasada abstrakcji.md",
+    "Wstęp do wstępu.md",
+    "Twierdzenie o definiowaniu przez indukcję.md",
+    "Twierdzenie Zermelo o dobrym uporządkowaniu.md",
+    "Twierdzenie o dobrym uporządkowaniu.md",
+    "Bez nazwy.md",
+    "Zbiory co najwyżej przeliczalne.md",
+    "Zbiory mocy continuum.md",
+    "Zbiór ilorazowy.md",
+    "Zbiór ograniczony.md",
+    "Zbiór otwarty.md",
+    "Zbiór zwarty.md",
+    "Podział zbioru.md",
+    "Porządek liniowy.md",
+    "Relacje.md",
+    "Relacja (dwuargumentowa).md",
+    "Kryteria zbieżności całek niewłaściwych.md",
+    "Kongurencja algebry.md",
+    "Klasa równoważności.md",
+    "Indukcja pozaskończona.md",
+    "Grupa.md",
+    "Indeksowane rodziny zbiorów.md",
+    "Funkcje.md",
+    "Drugie twierdzenie Diniego.md"
+  ]
+}

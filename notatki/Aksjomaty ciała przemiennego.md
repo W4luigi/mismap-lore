@@ -1,0 +1,10 @@
+# Algebra $\mathcal{X} = <X,0,1,+,\cdot>$   jest ciałem przemiennym, gdy spełnione są aksjomaty:
+## A.1 $\forall x,y \in X\: x+y = y+x$
+## A.2 $\forall x,y,z \in X\: x+(y+z) = (x+y)+z$
+## A.3 $\forall x \in X\: x+0 = x$
+## A.4 $\forall x \in X\: \exists -x \in X \: x+(-x)=0$
+## A.5 $\forall x,y \in X\: xy = yx$
+## A.6 $\forall x,y,z \in X\: x(yz) = (xy)z$
+## A.7 $\forall x \in X\: x\cdot 1 = x$
+## A.8 $\forall x \in X\: \exists x^{-1} \in X \: x\cdot x^{-1}=1$
+## A.9 $\forall x,y,z \in X\: x(y+z) = xy+xz$
