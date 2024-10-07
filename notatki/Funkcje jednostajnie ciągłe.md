@@ -1,0 +1,2 @@
+# cos rozjebalem
+## Funkcja $f:\mathbb{R}^n\subseteq A \rightarrow \mathbb{R}^m$ jest **jednostajnie ciągła na $A$** wtedy i tylko wtedy, gdy $$\forall \epsilon>0 \:\exists \delta>0 \: \forall x\in A : ||x-a||<\delta \implies ||f(x)-f(a)|| < \epsilon$$

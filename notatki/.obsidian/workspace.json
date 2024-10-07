@@ -6,34 +6,250 @@
       {
         "id": "2936164c56bf377c",
         "type": "tabs",
-        "dimension": 71.2579617834395,
+        "dimension": 71.25796178343948,
         "children": [
           {
-            "id": "aee96623ea052d4b",
+            "id": "1e11cf5d8701a581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kongurencja algebry.md",
+                "file": "Ciało liczb rzeczywistych.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e79c90278a23544",
+            "id": "b7f6bec3ff0b3dc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zasada abstrakcji.md",
+                "file": "Całka Dirichleta.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "983eab01294e0499",
+            "id": "b263cd16a264e449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Całki Fresnela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cf6c983b4fca58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Całka Gaussa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ee2d916558bad16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funkcja Gamma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c16d3abee7f6512f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funkcja Beta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fd185583695221c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wzór Wallisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ff28c06cff9565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wzór Viete'a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cdf2ff27b61974a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metryka sumy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08552f299983d2d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciała skończone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b67915b142e5f9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zbiór zwarty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "830cdac97d332471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twierdzenie Weierstrassa o przyjmowaniu kresów.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e684e3da2a4ac06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funkcje jednostajnie ciągłe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffbbf65492e737e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Punkt skupienia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ee27cc34751bc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c016bf9c131c4cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norma w ciele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c999e84f62fff219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciała liczb p-adycznych.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3125ce028208f821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciąg Cauchy'ego względem metryki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11367a70b48c8d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciąg Cauchy'ego względem metryki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b646529b29c61a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Równoważność ciągów Cauchy'ego w przestrzeni metrycznej.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8df23a871718c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,396 +261,24 @@
             }
           },
           {
-            "id": "a2859c0a10fa0f8b",
+            "id": "1c9b09e41310ebda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twierdzenie spektralne (rzeczywiste).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05d81662b0f0e5f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twierdzenie spektralne (zespolone).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb9adbe2ef1be9c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twierdzenie Cayleya - Hamiltona.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd4d146e901506e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra Peany.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff096b194101092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metryka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cf3fee2e81f86e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metryka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70c73230715f5dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Własności topologii.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f86b9e7beb0a7444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indeksowane rodziny zbiorów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a5c3b91400ac27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dobry porządek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d515dc16756fb78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nierówność Cauchy'ego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cfe2c7e8470f949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iloczyn skalarny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40671b2bca06ab03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Przestrzeń afiniczna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b17a28f13700e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Standardowy iloczyn skalarny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d5218191d8d84af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forma dwuliniowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5368ae17846f470d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forma n-liniowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b3580cea2bb384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wyznacznik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "344d134464b604bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Przestrzeń euklidesowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ff46bdcd2bc507e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma euklidesowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f71c00aabc84c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wektor własny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0ab142bfd27ffce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Standardowy iloczyn skalarny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ff3439ebcfb996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma euklidesowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47aa20681fb51a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma wektora nad R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c08dc3f12b72794a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciąg Cauchy'ego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa5342002f37a4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma wektora nad R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec52ca6bd6bdece9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metryka generowana przez p-normę.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db06fe45e80330e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma wektora nad R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8f199ef54bdafcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra Peany.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0251228fe1408e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aksjomaty ZFC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f983dca63710db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twierdzenie Diniego, I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b4820433eec253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma wektora nad R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05afd811053a42fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pochodzenie etyki - Mary Midgley.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e11cf5d8701a581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma wektora nad R.md",
+                "file": "Twierdzenie Ostrowskiego.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 21
       },
       {
         "id": "96f7629104b022dd",
         "type": "tabs",
-        "dimension": 28.742038216560513,
+        "dimension": 28.74203821656051,
         "children": [
           {
             "id": "357821ab0186b297",
@@ -510,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pochodzenie etyki - Mary Midgley.md",
+                "file": "Twierdzenie Ostrowskiego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -527,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pochodzenie etyki - Mary Midgley.md",
+                "file": "Twierdzenie Ostrowskiego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -550,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pochodzenie etyki - Mary Midgley.md"
+                "file": "Twierdzenie Ostrowskiego.md"
               }
             }
           }
@@ -571,33 +415,33 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "05afd811053a42fc",
+  "active": "1c9b09e41310ebda",
   "lastOpenFiles": [
-    "Zbiór ilorazowy.md",
+    "Topologia.md",
     "Zbiór zwarty.md",
+    "Zbiór domknięty.md",
     "Zbiór otwarty.md",
     "Zbiór ograniczony.md",
-    "Zbiory mocy continuum.md",
     "Zbiory co najwyżej przeliczalne.md",
+    "Zasada abstrakcji.md",
+    "Wzór Wallisa.md",
+    "Wzór Viete'a.md",
+    "Wyznacznik.md",
+    "Wstęp do wstępu.md",
+    "Własności topologii.md",
     "Wektor własny.md",
-    "Norma wektora nad R.md",
-    "Norma euklidesowa.md",
-    "Nierówność trójkąta.md",
-    "Norma.md",
-    "Metryka.md",
-    "Nierówność Cauchy'ego.md",
-    "Nierówność Bernoulliego.md",
-    "Nierówności między średnimi.md",
-    "Długością wektora.md",
-    "p-norma.md",
-    "Metryka generowana przez p-normę.md",
-    "Metryka euklidesowa.md",
-    "Metryka dyskretna.md",
-    "Klasa równoważności.md",
-    "Kongurencja algebry.md",
-    "Kryteria zbieżności całek niewłaściwych.md",
-    "Kryteria zbieżności szeregów.md",
-    "Iloczyn skalarny.md",
-    "Iloczyn hermitowski.md"
+    "Wartość własna.md",
+    "Uogólnienia nierówności szkolnych.md",
+    "Twierdzenie Zermelo o dobrym uporządkowaniu.md",
+    "Twierdzenie Weierstrassa o przyjmowaniu kresów.md",
+    "Twierdzenie spektralne (zespolone).md",
+    "Twierdzenie spektralne (rzeczywiste).md",
+    "Twierdzenie Ostrowskiego.md",
+    "Twierdzenie o definiowaniu przez indukcję.md",
+    "Twierdzenie Jordana.md",
+    "Twierdzenie Diniego, II.md",
+    "Twierdzenie Diniego, I.md",
+    "Twierdzenie Cayleya - Hamiltona.md",
+    "Aksjomaty ZFC.md"
   ]
 }

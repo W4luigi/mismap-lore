@@ -1,0 +1,1 @@
+# $$\prod_{n=1}^{\infty}\frac{2n}{2n-1}\cdot\frac{2n}{2n+1}=\frac{\pi}{2}$$

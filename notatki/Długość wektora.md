@@ -1,1 +1,0 @@
-## Niech $<,>$ będzie [[Standardowy iloczyn skalarny|standardowym iloczynem skalarnym]] na [[Przestrzeń liniowa|przestrzeni]] $V$ nad $\mathbb{R}$, $\alpha \in V$. **Długością wektora** $\alpha$ nazywamy liczbę $||\alpha|| = \sqrt{<\alpha,\alpha>} = (\sum_{i=1}^{n}a_i^2)^{1/2}$ 

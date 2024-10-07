@@ -1,0 +1,1 @@
+## **Metryką dyskretną** w zbiorze $X$ nazywamy [[Metryka|metrykę]] $d(x,y)$

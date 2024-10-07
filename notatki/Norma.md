@@ -6,3 +6,4 @@
 ## **Przykłady**:
 ### (1) [[Norma wektora nad R]]
 ### (2) [[Norma euklidesowa]]
+### (3) [[Norma w ciele]] 

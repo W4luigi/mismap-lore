@@ -1,0 +1,1 @@
+# $$S(X)=\int_{0}^{x}\frac{sin(t^2)}{t}dt$$ $$C(X)=\int_{0}^{x}\frac{cos(t^2)}{t}dt$$$$\lim_{x\rightarrow +\infty} S(X)=\lim_{x\rightarrow +\infty} C(X) = \sqrt{\frac{\pi}{8}}$$

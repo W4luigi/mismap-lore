@@ -1,0 +1,1 @@
+## Niech $(X,d)$ będzie [[Przestrzeń metryczna|przestrzenią metryczną]]. Ciągi $(x_n)_{n\in\mathbb{N}}, (y_n)_{n\in\mathbb{N}} \subseteq X$ nazywamy **równoważnymi** i oznaczamy $(x_n)\sim(y_n)$, wtedy i tylko wtedy, gdy $$\lim_{n\rightarrow\infty}d(x_n,y_n)=0$$ 

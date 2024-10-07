@@ -1,0 +1,1 @@
+## Dwie metryki $d_1,d_2$ określone na tym samym zbiorze $X$ są **równoważne**, jeśli każdy ciąg w $X$ będący [[Ciąg Cauchy'ego względem metryki|ciągiem Cauchy'ego względem metryki]] $d_1$ jest ciągiem Cauchy'ego względem metryki $d_2$.

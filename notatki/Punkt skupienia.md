@@ -1,0 +1,2 @@
+## Niech $A \subseteq \mathbb{R}$.
+## Punkt $p \in \overline{\mathbb{R}}$ jest **punktem skupienia** zbioru $A$ wtedy i tylko wtedy, gdy istnieje ciąg $(a_n)\subset A\backslash \{p\}$, że $\lim_{n\rightarrow +\infty}=p$

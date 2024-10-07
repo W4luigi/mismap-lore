@@ -1,0 +1,2 @@
+## Niech $(X,d)$ będzie [[Przestrzeń metryczna|przestrzenią metryczną]].
+## Powiemy, że [[Przestrzeń metryczna|przestrzeń metryczna]] jest **przestrzenią zupełną**, gdy każdy [[Ciąg Cauchy'ego względem metryki|ciąg Cauchy'ego względem metryki]] $d$ ma granicę $g \in X$.

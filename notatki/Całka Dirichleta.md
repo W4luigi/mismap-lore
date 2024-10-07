@@ -1,0 +1,1 @@
+# $$\int_{0}^{+\infty}\frac{sinx}{x}dx = \frac{\pi}{2}$$
