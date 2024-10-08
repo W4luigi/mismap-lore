@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wektor własny.md",
+                "file": "Funkcja odwrotna.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wektor własny.md",
+                "file": "Funkcja odwrotna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wektor własny.md",
+                "file": "Funkcja odwrotna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wektor własny.md"
+                "file": "Funkcja odwrotna.md"
               }
             }
           }
@@ -164,6 +164,13 @@
   },
   "active": "7c7339e3d857105a",
   "lastOpenFiles": [
+    "Suriekcja.md",
+    "Funkcja odwrotna.md",
+    "Bijekcja.md",
+    "Iniekcja.md",
+    "Algebry izomorficzne.md",
+    "Podprzestrzeń  metryczna.md",
+    "Wektor własny.md",
     "Wzór Viete'a.md",
     "Zbiory co najwyżej przeliczalne.md",
     "Zbiory mocy continuum.md",
@@ -181,14 +188,7 @@
     "Twierdzenie spektralne.md",
     "Iloczyn hermitowski.md",
     "Przestrzeń liniowa.md",
-    "Bijekcja.md",
     "Moc zbiorów.md",
-    "Twierdzenie Cantora.md",
-    "Zasada abstrakcji.md",
-    "Twierdzenie Abela o granicach kątowych.md",
-    "Twierdzenie Arzeli-Ascoliego.md",
-    "Twierdzenie Bolzano - Weierstrassa.md",
-    "Równoważność ciągów Cauchy'ego w przestrzeni metrycznej.md",
-    "Norma w ciele.md"
+    "Twierdzenie Cantora.md"
   ]
 }
