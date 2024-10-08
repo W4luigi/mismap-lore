@@ -4,5 +4,5 @@
 ### (3) **[[Nierówność trójkąta]]**: $\forall x,y \in \mathbb{F} \ ||x+y||<||x||+||y||$
 
 ## **Przykłady**:
-### (1) Moduł $|\cdot|$
-### (2) [[Norma p-adyczna]]
+### (1) Moduł: $|x|$.
+### (2) [[Norma p-adyczna]].

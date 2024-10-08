@@ -6,282 +6,29 @@
       {
         "id": "2936164c56bf377c",
         "type": "tabs",
-        "dimension": 71.25796178343948,
+        "dimension": 53.42465753424658,
         "children": [
           {
-            "id": "1e11cf5d8701a581",
+            "id": "7c7339e3d857105a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciało liczb rzeczywistych.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7f6bec3ff0b3dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Całka Dirichleta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b263cd16a264e449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Całki Fresnela.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cf6c983b4fca58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Całka Gaussa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee2d916558bad16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funkcja Gamma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c16d3abee7f6512f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funkcja Beta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fd185583695221c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wzór Wallisa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ff28c06cff9565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wzór Viete'a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cdf2ff27b61974a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metryka sumy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08552f299983d2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciała skończone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b67915b142e5f9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zbiór zwarty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830cdac97d332471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twierdzenie Weierstrassa o przyjmowaniu kresów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e684e3da2a4ac06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funkcje jednostajnie ciągłe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffbbf65492e737e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Punkt skupienia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ee27cc34751bc28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c016bf9c131c4cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norma w ciele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c999e84f62fff219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciała liczb p-adycznych.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3125ce028208f821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciąg Cauchy'ego względem metryki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11367a70b48c8d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciąg Cauchy'ego względem metryki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b646529b29c61a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Równoważność ciągów Cauchy'ego w przestrzeni metrycznej.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8df23a871718c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Przestrzeń liniowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c9b09e41310ebda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twierdzenie Ostrowskiego.md",
+                "file": "Wektor własny.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 21
+        ]
       },
       {
-        "id": "96f7629104b022dd",
+        "id": "4133204e149c7afc",
         "type": "tabs",
-        "dimension": 28.74203821656051,
+        "dimension": 46.57534246575342,
         "children": [
           {
-            "id": "357821ab0186b297",
+            "id": "9ae046e14a58475e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -354,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twierdzenie Ostrowskiego.md",
+                "file": "Wektor własny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twierdzenie Ostrowskiego.md",
+                "file": "Wektor własny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twierdzenie Ostrowskiego.md"
+                "file": "Wektor własny.md"
               }
             }
           }
@@ -415,33 +162,33 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "1c9b09e41310ebda",
+  "active": "7c7339e3d857105a",
   "lastOpenFiles": [
-    "Topologia.md",
-    "Zbiór zwarty.md",
-    "Zbiór domknięty.md",
-    "Zbiór otwarty.md",
-    "Zbiór ograniczony.md",
-    "Zbiory co najwyżej przeliczalne.md",
-    "Zasada abstrakcji.md",
-    "Wzór Wallisa.md",
     "Wzór Viete'a.md",
-    "Wyznacznik.md",
-    "Wstęp do wstępu.md",
-    "Własności topologii.md",
-    "Wektor własny.md",
-    "Wartość własna.md",
-    "Uogólnienia nierówności szkolnych.md",
-    "Twierdzenie Zermelo o dobrym uporządkowaniu.md",
-    "Twierdzenie Weierstrassa o przyjmowaniu kresów.md",
-    "Twierdzenie spektralne (zespolone).md",
-    "Twierdzenie spektralne (rzeczywiste).md",
-    "Twierdzenie Ostrowskiego.md",
-    "Twierdzenie o definiowaniu przez indukcję.md",
-    "Twierdzenie Jordana.md",
-    "Twierdzenie Diniego, II.md",
-    "Twierdzenie Diniego, I.md",
-    "Twierdzenie Cayleya - Hamiltona.md",
-    "Aksjomaty ZFC.md"
+    "Zbiory co najwyżej przeliczalne.md",
+    "Zbiory mocy continuum.md",
+    "Ciała liczb p-adycznych.md",
+    "Całki Fresnela.md",
+    "Całka Gaussa.md",
+    "Całka Dirichleta.md",
+    "Lemat Kuratowskiego - Zorna.md",
+    "Ciąg Cauchy'ego.md",
+    "Warunek Cauchy'ego.md",
+    "Ciąg Cauchy'ego względem metryki.md",
+    "Ciało.md",
+    "Standardowy iloczyn skalarny.md",
+    "Standardowy iloczyn hermitowski.md",
+    "Twierdzenie spektralne.md",
+    "Iloczyn hermitowski.md",
+    "Przestrzeń liniowa.md",
+    "Bijekcja.md",
+    "Moc zbiorów.md",
+    "Twierdzenie Cantora.md",
+    "Zasada abstrakcji.md",
+    "Twierdzenie Abela o granicach kątowych.md",
+    "Twierdzenie Arzeli-Ascoliego.md",
+    "Twierdzenie Bolzano - Weierstrassa.md",
+    "Równoważność ciągów Cauchy'ego w przestrzeni metrycznej.md",
+    "Norma w ciele.md"
   ]
 }

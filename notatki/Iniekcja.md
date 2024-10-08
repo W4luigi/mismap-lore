@@ -1,0 +1,1 @@
+## [[Funkcja|Funkcję]] $f:A\rightarrow B$ nazwiemy **iniekcją**, **funkcją różnowartościową** $f:A\xrightarrow[]{\text{1-1}}B$ wtedy i tylko wtedy, gdy $$\forall x,y\in A: f(x)=f(y) \implies x=y$$

@@ -1,4 +1,4 @@
-## Niech $(X, r)$ będzie zbiorem [[Częściowy porządek|częściowo uporządkowanym]], $a\in X$. Mówimy, że $a$ jest:
+## Niech $(X, r)$ będzie zbiorem [[Porządek częściowy|częściowo uporządkowanym]], $a\in X$. Mówimy, że $a$ jest:
 ### (1) *elementem najmniejszym* 
 ### (2) *elementem największym*
 ### (3) *elementem minimalnym*

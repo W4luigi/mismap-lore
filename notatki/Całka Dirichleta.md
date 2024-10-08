@@ -1,1 +1,1 @@
-# $$\int_{0}^{+\infty}\frac{sinx}{x}dx = \frac{\pi}{2}$$
+# [[Całka niewłaściwa]] postaci: $$\int_{0}^{+\infty}\frac{sinx}{x}dx = \frac{\pi}{2}$$

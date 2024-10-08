@@ -1,0 +1,1 @@
+## **Standardowym iloczynem hermitowskim** w $\mathbb{C}^n$ nazywamy funkcję $<|>:\mathbb{C}^{n}\times \mathbb{C}^{n} \rightarrow \mathbb{C}$ daną wzorem $$ <x|y> := \sum_{i=1}^{n}x_i \overline{y_i}$$$$<(x_1,x_2,...,x_n)|(y_1,y_2,...,y_n)>=x_1\overline{y_1}+x_2\overline{y_2}+...+x_n\overline{y_n}$$

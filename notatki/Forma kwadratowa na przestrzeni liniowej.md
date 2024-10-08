@@ -1,1 +1,1 @@
-## Niech $V$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] nad [[Ciało|ciałem]] $\mathbb{K}$
+## Niech $V$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] nad [[Ciało|ciałem]] $K$
