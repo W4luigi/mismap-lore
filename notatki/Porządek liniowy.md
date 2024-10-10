@@ -1,0 +1,1 @@
+## Mówimy, że [[Porządek częściowy|porządek częściowy]] $\preceq$ jest **porządkiem liniowym** w zbiorze $X$, gdy jest [[Relacja spójna|relacją spójną]], tj. zachodzi **prawo trichotomii**:$$\forall_{x,y\in X}(x=y \wedge x\preceq y \wedge y\preceq x)$$

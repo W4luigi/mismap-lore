@@ -1,0 +1,2 @@
+## Niech $(X,\prec)$ będzie [[Porządek częściowy|zbiorem częściowo uporządkowanym]]. Porządkiem odwrotnym jest porządek $\prec^{-1} = \{(y,x):(x,y)\in\prec\}$ , to jest: $$\forall_{x,y\in{X}}(x\prec^{-1}y\iff y\prec{x})$$
+## Zazwyczaj zamiast "$\prec^{-1}$" stosuje się oznaczenie "$\succ$".

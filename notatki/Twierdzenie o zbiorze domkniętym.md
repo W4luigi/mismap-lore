@@ -1,0 +1,1 @@
+## Zbiór $K \subseteq \mathbb{R}^n$ jest [[Zbiór domknięty|domknięty]] $\iff$ granica każdego [[Zbieżność ciągu|zbieżnego ciągu]] elementów $K$ również należy do $K$.

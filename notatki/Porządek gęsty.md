@@ -1,0 +1,2 @@
+## Niech $(X,\prec)$ będzie co najmniej 2 elementowym, [[Porządek liniowy|zbiorem liniowo uporządkowanym]].
+## Porządek $\prec$ nazwiemy **porządkiem gęstym**, jeśli $\forall_{x,y}: (x\prec y \implies \exists_{z\in{X}}:x\prec z \wedge z \prec y)$

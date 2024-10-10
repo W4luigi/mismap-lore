@@ -7,5 +7,4 @@
 ## **Ciąg pusty** to $\emptyset$
 ## **Ciąg nieskończony** to funkcja, której dziedziną jest $\mathbb{N}$ lub $\mathbb{N}\backslash\{0\}$
 
-
 ## $(g \circ f)^{-1}=f^{-1}\circ g^{-1}$

@@ -1,0 +1,1 @@
+## Zbiór $A\subseteq \mathbb{R}^n$ jest [[Zbiór zwarty|zwarty]] $\iff$ jest [[Zbiór domknięty|domknięty]] i [[Zbiór ograniczony|ograniczony]].

@@ -1,0 +1,1 @@
+## [[Grupa|Grupę]], którą generuje jeden element $a \:  <a>=G$ nazywamy **grupą cykliczną**

@@ -1,4 +1,4 @@
-## Niech [[Relacje równoważności|relacja równoważności]] $\equiv$ będzie [[Kongurencja algebry||kongurencją w algebrze]] $\mathbb{A}=\:(A, a_1, a_2, ..., a_m,  f_1,  f_2, ..., f_n)$.
+## Niech [[Relacja równoważności|relacja równoważności]] $\equiv$ będzie [[Kongurencja algebry||kongurencją w algebrze]] $\mathbb{A}=\:(A, a_1, a_2, ..., a_m,  f_1,  f_2, ..., f_n)$.
 ## Można wówczas utworzyć algebrę $\mathbb{B}=\:(A/\equiv, b_1, b_2, ..., b_m,  g_1,  g_2, ..., g_n)$
 ## Jeśli $\mathbb{B}$ spełnia podane warunki, to nazywamy ją **algebrą ilorazową**:
 ## (1) Podobną do $\mathbb{A}$, 

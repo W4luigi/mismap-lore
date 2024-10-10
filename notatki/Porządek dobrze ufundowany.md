@@ -1,0 +1,2 @@
+## Niech $(X,\prec)$ będzie zbiorem [[Porządek częściowy|porządkiem częściowo uporządkowanym]].
+## Porządek $\prec$ nazwiemy **porządkiem dobrze ufundowanym** wtedy i tylko wtedy, gdy każdy podzbiór $\emptyset\neq{A}\subseteq{X}$ ma [[Elementy wyróżnione porządków|element minimalny]].    

@@ -1,0 +1,2 @@
+## Niech $X$ będzie [[Porządek częściowy|zbiorem częściowo uporządkowanym]] przez $\preceq$ i niech $U\subseteq X$.
+## Jeśli $U$ jest [[Porządek liniowy|liniowo uporządkowane]] przez $\preceq|_{U\times U}$, to mówimy, że **$U$ jest łańcuchem w zbiorze $X$**

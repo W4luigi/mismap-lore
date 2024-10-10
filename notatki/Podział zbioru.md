@@ -6,6 +6,6 @@
 
 
 # Podziały zbioru a relacja równoważności
-## Niech $r$ będzie [[Relacje równoważności|relacją równoważności]] w zbiorze $A \neq \emptyset$. 
+## Niech $r$ będzie [[Relacja równoważności|relacją równoważności]] w zbiorze $A \neq \emptyset$. 
 
 ## Zbiór wszystkich klas abstrakcji relacji $r$ to **zbiór ilorazowy**: $A \backslash r = {[a]_r: a \in A}$

@@ -1,0 +1,1 @@
+## [[Relacja|Relację]] w zbiorze $X$ nazywamy **relacją spójną** jeśli spełnia $$\forall_{x,y\in{X}} (x=y\wedge xry \wedge yrx)$$

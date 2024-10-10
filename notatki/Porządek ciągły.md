@@ -1,0 +1,2 @@
+## Niech $(X,\prec)$ będzie [[Porządek gęsty|zbiorem gęsto uporządkowanym]].
+## Porządek $\prec$ nazwiemy **porządkiem ciągłym**, jeśli każdy zbiór $\emptyset\neq{A}\subseteq{X}$ ograniczony z góry, ma kres górny (w zbiorze $X$), a każdy zbiór $\emptyset\neq{B}\subseteq{X}$ ograniczony z dołu, ma kres dolny (w zbiorze $X$).
