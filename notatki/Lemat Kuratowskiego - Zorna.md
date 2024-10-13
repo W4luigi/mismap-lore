@@ -1,0 +1,2 @@
+## Niech $(X,\preceq)$ będzie niepustym zbiorem [[Porządek częściowy|częściowo uporządkowanym]]. Załóżmy, że każdy [[Łańcuch|łańcuch]] w zbiorze  ma ograniczenie górne w $X$.
+##  Wtedy w zbiorze $X$ istnieje [[Elementy wyróżnione porządków|element maksymalny]].

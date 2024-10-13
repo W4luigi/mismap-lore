@@ -6,7 +6,7 @@
 ## **Przykłady**:
 ### (1) [[Metryka euklidesowa]]
 ### (2) [[Metryka kolejowa]]
-### (3) [[Metryka generowana przez p-normę]]
+### (3) [[Metryka generowana przez normę]]
 ### (4) [[Metryka sumy]]
 ### (5) [[Metryka maximum]]
 ### (6) [[Metryka dyskretna]]

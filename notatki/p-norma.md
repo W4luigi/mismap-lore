@@ -1,4 +1,4 @@
-## Niech $V=\mathbb{R}^{n}$ jest [[Przestrzeń liniowa|przestrzenią liniową]], $p \in [1,+\infty)$. Funkcja $||x||_p = (\sum_{i=1}^{n}|x_i^p|)^{1/p}$ jest [[Norma wektora nad R|normą]] w $\mathbb{R}^n$. Jest związana z [[Metryka generowana przez p-normę|metryką generowaną przez p-normę]]:
+## Niech $V=\mathbb{R}^{n}$ lub $\mathbb{C}^{n}$ będzie [[Przestrzeń liniowa|przestrzenią liniową]], $p \in [1,+\infty)$. Funkcja $||x||_p = (\sum_{i=1}^{n}|x_i^p|)^{1/p}$ jest [[Norma wektora nad R|normą]] w $\mathbb{R}^n$. 
 
 ## **Przykłady**:
 ### (1) dla p=2: [[Norma euklidesowa|standardowa norma euklidesowa]]

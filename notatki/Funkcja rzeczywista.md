@@ -1,0 +1,1 @@
+## [[Funkcja]] $f:\mathbb{R}\to\mathbb{R}$ o dziedzinie i przeciwdziedzinie rzeczywistej, $f\in\mathbb{R}^\mathbb{R}$, jest funkcją rzeczywistą.

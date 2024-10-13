@@ -1,3 +1,4 @@
+# Aksjomaty Zermelo - Fraenkel - choice:
 ## (1) **Aksjomat ekstensjonalności**
 ### $\forall_{A} \:\forall_{B}\: (\forall_{x} \:(x \in A \iff x \in B) \implies A=B)$
 ## (2) **Aksjomat zbioru pustego**

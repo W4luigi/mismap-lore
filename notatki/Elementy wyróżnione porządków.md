@@ -7,3 +7,5 @@
 ### (6) *ograniczeniem górnym* w $A$*:* $\forall_{x\in A}(x \preceq a)$
 ### (7) *kresem dolnym lub infimum zbioru $A$ = $\inf(A)$*: $\forall_{x\in{X}}\forall_{y\in A} a\preceq x \wedge y \preceq x$
 ### (8) *kresem górnym lub supremum* zbioru $A$ = $\sup(A)$*: $\forall_{x\in{X}}\forall_{y\in A} x\preceq a \wedge x \preceq y$
+
+## **Umowa**: $\inf\emptyset=+\infty$, $\sup\emptyset=-\infty$ 

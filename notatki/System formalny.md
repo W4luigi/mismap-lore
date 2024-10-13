@@ -1,0 +1,1 @@
+## Systemem formalnym w zbiorze $E$ nazywamy $(E,R,A)$

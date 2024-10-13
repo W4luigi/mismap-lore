@@ -1,2 +1,2 @@
-# **Przestrzenią metryczną** nazywamy parę $<X,d>$, gdzie $d$ jest [[Metryka|metryką]] na $X$
+## **Przestrzenią metryczną** nazywamy parę $(X,d)$, gdzie $d$ jest [[Metryka|metryką]] na $X$.
 

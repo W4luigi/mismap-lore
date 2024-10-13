@@ -1,0 +1,1 @@
+## **Kryteria zbieżności szeregów funkcyjnych**:

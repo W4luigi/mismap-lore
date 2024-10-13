@@ -1,0 +1,1 @@
+## Powiemy, że **rodzina $\mathcal{F} \in{}C(K)$ jest wspólnie ograniczona**, jeśli istnieje stała $M>0$, że dla każdej $f\in\mathcal{F}$ zachodzi $||f||_{\infty,K}\leq{}M$

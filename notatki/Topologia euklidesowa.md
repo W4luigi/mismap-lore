@@ -1,0 +1,1 @@
+## [[Topologia]] $\mathcal{T}_e$, generowana przez [[Metryka euklidesowa|metrykę euklidesową]] to **topologia euklidesowa**

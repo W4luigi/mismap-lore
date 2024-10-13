@@ -1,0 +1,1 @@
+## Niech $X$ będzie [[Przestrzeń topologiczna|przestrzenią topologiczną]]. Wówczas [[sigma-ciało]] generowane przez rodzinę wszystkich [[Zbiór otwarty|zbiorów otwartych]] w $X$ nazywamy **$\sigma$-ciałem borelowskim** i oznaczamy $\mathcal{B}(X)$

@@ -1,0 +1,2 @@
+## Zbiór $\emptyset\neq  A \subseteq\mathbb{R}$ nazwiemy  **zbiorem całkowicie ograniczonym**, gdy dla każdej $\delta>0$ w $A$ istnieje skończona [[delta-sieć]].
+## **Lemat**: Każdy niepusty [[Zbiór zwarty|zbiór zwarty]] $K\subseteq\mathbb{R}$ jest całkowicie ograniczony.

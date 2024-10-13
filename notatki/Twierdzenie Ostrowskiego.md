@@ -1,3 +1,3 @@
 ## Każda [[Norma|norma]] na $\mathbb{Q}$ zadaje metrykę, która jest [[Równoważność metryk|równoważna metryce]] $d(x,y)=|x-y|$ lub metrykę równoważną metryce $d(x,y)=||x-y||_p$, gdzie $p$ jest liczbą pierwszą, a $||\cdot||_p$ - [[Norma p-adyczna|normą p-adyczną]].
 
-## Wprowadzając metrykę z normy na $\mathbb{Q}$ można skonstruować zatem wyłącznie [[Ciało liczb rzeczywistych]] $\mathbb{R}$ lub [[Ciała liczb p-adycznych]] $\mathbb{Q}_p$
+## Wprowadzając metrykę z normy na $\mathbb{Q}$ można skonstruować zatem wyłącznie [[Liczby rzeczywiste]] $\mathbb{R}$ lub [[Ciała liczb p-adycznych]] $\mathbb{Q}_p$

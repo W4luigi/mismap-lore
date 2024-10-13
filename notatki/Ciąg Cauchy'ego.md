@@ -1,3 +1,1 @@
-## Powiemy, że $(a_n)_{n\in\mathbb{N}} \subseteq\mathbb{R}$ jest **ciągiem Cauchy'ego** wtedy i tylko wtedy, gdy $$\forall_{\epsilon>0}\exists_{M\in\mathbb{N}}\forall_{\substack{n,m\in\mathbb{N}\\n,m>M}}:|a_n-a_m|<\epsilon$$
-## **Twierdzenie**:
-### Każdy [[Zbieżność ciągu|ciąg zbieżny]] jest ciągiem Cauchy'ego.
+## Powiemy, że [[Ciąg|ciąg]] $(a_n)_{n\in\mathbb{N}} \subseteq\mathbb{R}$ jest **ciągiem Cauchy'ego** wtedy i tylko wtedy, gdy $$\forall_{\epsilon>0}\exists_{M\in\mathbb{N}}\forall_{\substack{n,m\in\mathbb{N}\\n,m>M}}:|a_n-a_m|<\epsilon$$
