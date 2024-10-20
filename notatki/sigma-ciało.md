@@ -1,4 +1,3 @@
-
 ## Rodzinę $\mathcal{F}\subseteq\mathcal{P}(X)$ nazywamy **$\sigma$-ciałem**, jeśli $\mathcal{F}$ jest [[Ciało zbiorów|ciałem podzbiorów]] $X$ oraz dodatkowo jest **przeliczalnie addytywna**, czyli $$\forall_{A_1,A_2,...\in\mathcal{F}}:\bigcup_{j=1}^{\infty}A_j\in\mathcal{F}$$
 ## **Przykłady**:
 ### (1) $\mathcal{F}=\mathcal{P}(A)$ jest $\sigma$.

@@ -1,2 +1,2 @@
-## Niech $C[a,b]$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] [[Liczby rzeczywiste|rzeczywistych]] ([[Liczby zespolone|zespolonych]]) [[Funkcja ciągła|funkcji ciągłych]] na odcinku $[a,b]$. 
+## Niech $C[a,b]$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] [[Liczby rzeczywiste|rzeczywistych]] ([[!Liczby zespolone|zespolonych]]) [[Funkcja ciągła|funkcji ciągłych]] na odcinku $[a,b]$. 
 ## Dla $f\in{}C[a,b]$  definiujemy $L^{p}=||\cdot||_p$:  $$||f||_{p}=(\int_{a}^{b}|f(t)|^pdt)^{\frac{1}{p}}$$

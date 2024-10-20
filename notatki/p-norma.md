@@ -3,3 +3,4 @@
 ## **Przykłady**:
 ### (1) dla p=2: [[Norma euklidesowa|standardowa norma euklidesowa]]
 ### (2) dla p=1: norma sumy
+### (3) $\lim_{p\to\infty}||\cdot||_p=||\cdot||_{\infty}$ - [[!Norma maximum|norma maximum]]

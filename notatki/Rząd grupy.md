@@ -1,2 +1,2 @@
-## Niech $G$ jest [[Grupa|grupą]].
-## Rzędem grupy $|G|$ nazywamy [[Moc zbiorów|moc jej elementów]].
+## Niech $G$ będzie [[Grupa|grupą]].
+## **Rzędem grupy** $|G|$ nazywamy [[Moc zbiorów|moc jej elementów]].

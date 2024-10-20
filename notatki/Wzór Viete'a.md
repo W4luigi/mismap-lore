@@ -1,1 +1,1 @@
-# $$\lim_{n\rightarrow+\infty}2^{n}\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{2+...+\sqrt{2}}}}}=\pi$$
+# $$\pi=\lim_{n\rightarrow+\infty}2^{n}\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{2+...+\sqrt{2}}}}}$$

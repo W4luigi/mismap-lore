@@ -1,1 +1,2 @@
-# Uogólnienie silni na [[Liczby rzeczywiste|liczby rzeczywiste]] i [[Liczby zespolone|zespolone]] $$\Gamma:\{z \in \mathbb{C}:\Re(z)>0\}\rightarrow \mathbb{C}$$ $$\Gamma(z)=\int_{0}^{+\infty}t^{z-1}e^{-t}dt$$ $$\Gamma(1)=1$$ $$\Gamma(n)=n! : n\in\mathbb{N}$$ $$\Gamma(z)=\int_{0}^{+\infty}t^{z-1}e^{-t}dt : Re(z)>0$$
+## Uogólnienie silni na [[Liczby rzeczywiste|liczby rzeczywiste]] i [[!Liczby zespolone|zespolone]]: 
+# $$\Gamma:\{z \in \mathbb{C}:\Re(z)>0\}\rightarrow \mathbb{C}$$ $$\Gamma(z)=\int_{0}^{+\infty}t^{z-1}e^{-t}dt$$ $$\Gamma(1)=1$$ $$\Gamma(n)=n! : n\in\mathbb{N}$$ $$\Gamma(z)=\int_{0}^{+\infty}t^{z-1}e^{-t}dt : Re(z)>0$$

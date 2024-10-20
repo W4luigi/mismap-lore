@@ -1,1 +1,1 @@
-## **Ciągiem liczbowym** nazywamy [[Ciąg|ciąg]] o dziedzinie będącej [[Ciało przemienne|ciałem]], zazwyczaj $\mathbb{R}$ lub $\mathbb{C}$.
+## **Ciągiem liczbowym** nazywamy [[Ciąg|ciąg]] o przeciwdziedzinie będącej [[Ciało przemienne|ciałem]], zazwyczaj $\mathbb{R}$ lub $\mathbb{C}$.

@@ -1,0 +1,1 @@
+## **Macierzą** $A$ rozmiaru $m\times n$ o wyrazach ze zbioru $X$ nazwiemy tablicę: $$A=\begin{bmatrix}a_{11} & a_{12} & ... & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & & \ddots & \vdots \\  a_{m1} & a_{m2} & & a_{mn} \end{bmatrix}$$ gdzie $a_{ij}\in X, 1\leq i \leq m, 1 \leq j\leq n$.

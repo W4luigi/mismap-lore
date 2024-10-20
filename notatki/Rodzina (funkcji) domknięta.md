@@ -1,1 +1,1 @@
-## Powiemy, że **rodzina $\mathcal{F} \in{}C(K)$ jest domknięta**, jeśli funkcja graniczna każdego [[Ciąg funkcyjny|ciągu]] $f\in\mathcal{F}$ [[Zbieżność jednostajna|zbieżnego jednostajnie]] też należy do $\mathcal{F}$.
+## Powiemy, że **rodzina $\mathcal{F} \in{}C(K)$ jest domknięta**, jeśli funkcja graniczna każdego [[!Ciąg funkcyjny|ciągu]] $f\in\mathcal{F}$ [[!Zbieżność jednostajna|zbieżnego jednostajnie]] też należy do $\mathcal{F}$.

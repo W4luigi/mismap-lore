@@ -1,0 +1,1 @@
+## **Charakterystyką** jest liczba $p: \underbrace{1+1+...+1+1}_{p}=0$

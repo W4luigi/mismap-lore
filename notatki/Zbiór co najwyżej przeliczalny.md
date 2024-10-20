@@ -1,0 +1,5 @@
+## Zbiór A nazwiemy **zbiorem co najwyżej przeliczalnym** wtedy i tylko wtedy, gdy jest [[Moc zbiorów|mocy mniejszej lub równej]] $\mathbb{N}$ - $|A|\leq|\mathbb{N}|$
+## Moc zbioru liczb naturalnych oznaczamy $\aleph_0:=|\mathbb{N}|$
+
+## **Twierdzenie**: *Suma co najwyżej przeliczalnej rodziny $\mathcal{A}$ zbiorów co najwyżej przeliczalnych jest co najwyżej przeliczalna*:
+### **Dowód**: Niech $p_n$ jest $n$-tą [[!Liczby pierwsze|liczbą pierwszą]]. Rozważmy $A_0={}$ $\{n\in\mathbb{N}:n$ jest wielokrotnością liczby złożonej$\}\cup\{0,1\},$ $\forall_{n\in\mathbb{N}_{+}}A_{n}=\{p_{n}m\in\mathbb{N}:m\in\mathbb{N}_{+}\}$,  $\mathcal{A}=\{A_n\}$. $\mathcal{A}$ jest rodziną zbiorów rozłącznych i $\forall_{n\in\mathbb{N}}|A_n|=\aleph_0$, czyli każdy z nich jest co najwyżej przeliczalny. Wiemy, że liczb pierwszych jest nieskończoność i wiemy że są podzbiorem $\mathbb{N}$, zatem $|\mathcal{A}|=\aleph_0$, czyli $\mathcal{A}$ jest rodziną co najwyżej przeliczalną. Ale $\bigcup\mathcal{A} = \mathbb{N}$, zatem faktycznie co najwyżej przeliczalna suma zbiorów co najwyżej przeliczalnych jest co najwyżej przeliczalna.

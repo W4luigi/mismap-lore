@@ -1,0 +1,6 @@
+[[!Funkcja lipschitzowska]]
+[[Funkcja ciągła]]
+[[Funkcja jednostajnie ciągła]]
+[[!Pochodna]]
+[[Pochodna wyższego rzędu]]
+[[Pochodna cząstkowa]]

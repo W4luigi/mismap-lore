@@ -1,0 +1,1 @@
+## [[Przestrzeń topologiczna|Przestrzeń topologiczną]] $(X,\mathcal{T})$ nazywamy **przestrzenią Hausdorffa**, jeśli dla każdej pary różnych punktów $x_1,x_2\in X$ istnieją takie $U_1,U_2 \in \mathcal{T}$, że $x_1\in U_1, x_2 \in U_2, U_1\cup U_2=\emptyset$

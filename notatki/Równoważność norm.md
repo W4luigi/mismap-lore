@@ -1,3 +1,2 @@
-## Mówimy, że dwie [[Norma|normy]] $||\cdot||_1$ i $||\cdot||_2$ na $\mathbb{R}^n$ są **równoważne**, jeśli istnieje stała $c>0$, że $$\forall_{x\in\mathbb{R}}:\frac{1}{c}||x||_1\leq||x||_2\leq c||x||_1$$
-## **Twierdzenie**
+## Mówimy, że dwie [[Norma|normy]] $||\cdot||_1$ i $||\cdot||_2$ na $\mathbb{R}^n$ są **równoważne**, jeśli istnieje stała $c>0$, że $$\forall_{x\in\mathbb{R}}:\frac{1}{c}||x||_1\leq||x||_2\leq c||x||_1$$## **Twierdzenie**
 ### Dowolne dwie normy na $\mathbb{R}^n$ są równoważne

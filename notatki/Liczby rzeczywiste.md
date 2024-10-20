@@ -9,3 +9,4 @@
 ### Każdy niepusty, ograniczony podzbiór $A \subset \mathbb{R}$ ma [[Elementy wyróżnione porządków|kres górny]] $M = sup\:A \in \mathbb{R}$.
 
 ## **Wartością bezwzględną**, **modułem liczby rzeczywistej** nazywamy funkcję $$|x|=\begin{cases}x&:x\geq0\\-x&:x<0\end{cases}$$
+## Liczby rzeczywiste spełniają aksjomaty [[Ciało przemienne|ciała przemiennego]]

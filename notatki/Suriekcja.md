@@ -1,1 +1,1 @@
-## [[Funkcja|Funkcję]] $f:A\rightarrow B$ nazwiemy **suriekcją**, **funkcją "na"** $f:A\xrightarrow[]{\text{na}}B$ wtedy i tylko wtedy, gdy $f(A)=B$, tj. obraz jest równy przeciwdziedzinie: $$\forall y\in B\ \exists x:y=f(x)$$   
+## [[Funkcja|Funkcję]] $f:A\rightarrow B$ nazwiemy **suriekcją**, **funkcją "na"** $f:A\overset{\text{na}}{\to}B$ wtedy i tylko wtedy, gdy $f(A)=B$, tj. obraz jest równy przeciwdziedzinie: $$\forall y\in B\ \exists x:y=f(x)$$   

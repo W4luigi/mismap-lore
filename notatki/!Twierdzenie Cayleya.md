@@ -1,0 +1,1 @@
+## Każda grupa jest izometryczna z pewną podgrupą grupy permutacji $S(X)$ pewnego zbioru $X$
