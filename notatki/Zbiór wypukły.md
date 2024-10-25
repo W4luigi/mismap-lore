@@ -1,0 +1,1 @@
+## Zbiór jest **wypukły**, jeśli dowolne dwa jego punkty można połączyć odcinkiem, zawartym w tym zbiorze.

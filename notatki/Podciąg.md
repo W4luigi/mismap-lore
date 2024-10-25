@@ -1,2 +1,2 @@
 ## Niech $(a_n)_{n\in\mathbb{N}}$ będzie [[Ciąg|ciągiem]], $k_1,k_2,k_3\dots$ będzie rosnącym ciągiem liczb naturalnych to ciąg określony wzorem: $b_n=a_{k_n}$ nazywamy **podciągiem ciągu $(a_n)$.**
-## **Stwierdzenie**: Jeśli $(a_n)\subset\mathbb{R}$  jest [[!Zbieżność|zbieżny]] do $g$, to każdy podciąg ciągu $(a_n)$ też jest zbieżny do $g$.
+## **Stwierdzenie**: Jeśli $(a_n)\subset\mathbb{R}$  jest [[Zbieżność|zbieżny]] do $g$, to każdy podciąg ciągu $(a_n)$ też jest zbieżny do $g$.

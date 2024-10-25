@@ -1,4 +1,4 @@
-## Niech $a<b$, $f:[a,b]\to\mathbb{R}$ będzie [[Funkcja ciągła|ciągła]] na $[a,b]$ i [[!Pochodna|różniczkowalna]] na $(a,b)$.
+## Niech $a<b$, $f:[a,b]\to\mathbb{R}$ będzie [[Funkcja ciągła|ciągła]] na $[a,b]$ i [[Pochodna|różniczkowalna]] na $(a,b)$.
 ## **Twierdzenie**:
 ### (i) $f$ jest [[Monotoniczność|niemalejąca]] $\iff\forall{x\in(a,b)}:{f'(x)\geq0}$
 ### (ii) $f$ jest [[Monotoniczność|nierosnąca]] $\iff\forall{x\in(a,b)}:{f'(x)\leq0}$

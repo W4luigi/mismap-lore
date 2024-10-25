@@ -1,0 +1,1 @@
+- Jest rodzajem myślenia (holistycznego)

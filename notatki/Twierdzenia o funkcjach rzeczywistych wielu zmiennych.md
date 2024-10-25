@@ -1,0 +1,2 @@
+# [[Funkcja rzeczywista wielu zmiennych]]
+## 

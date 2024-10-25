@@ -1,4 +1,0 @@
-# Wersja rzeczywista
-##
-# Wersja zespolona
-##

@@ -1,1 +1,1 @@
-## [[Grupa]] $G$ jest **grupą skończoną**, jeśli $|G|<\infty$
+## [[notatki/Grupa]] $G$ jest **grupą skończoną**, jeśli $|G|<\infty$

@@ -8,5 +8,5 @@
 ### (b) [[Równoważność metryk]]
 ### (c) [[Równoważność ciągów Cauchy'ego w przestrzeni metrycznej]]
 ### (d) [[!Podobieństwo macierzy]]
-### (e) [[!Kongruencja macierzy]]
+### (e) [[!!Kongruencja macierzy]]
 ### (f) [[Moc zbiorów]]

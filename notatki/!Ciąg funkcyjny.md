@@ -1,2 +1,0 @@
-
-## **Kryteria zbieżności ciągów funkcyjnych**:

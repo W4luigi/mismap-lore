@@ -1,0 +1,3 @@
+# 1. Zasada wzajemnej podstawialności nazw odnoszących się do tych samych przedmiotów Leibniza:
+## Jeśli wyrażenia "$a$" i "$b$" mają to samo odniesienie (tj. jeśli zdanie "$a = b$" jest prawdziwe), to "$a$" i "$b$" są wzajemnie podstawialne we wszystkich kontekstach, bez zmiany wartości logicznej tych kontekstów. $$\forall x\forall y[x=y\implies(\forall F(Fx\iff Fy))]$$
+# 2. Zasada $$\forall x\forall y \forall F[(Fx\iff Fy)\implies x=y]$$

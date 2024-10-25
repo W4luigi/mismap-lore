@@ -1,1 +1,0 @@
-## **Twierdzenie**: [[Ciąg liczbowy|ciąg]] $a_n=(1+\frac{1}{n})^n$ jest [[!Zbieżność|zbieżny]].

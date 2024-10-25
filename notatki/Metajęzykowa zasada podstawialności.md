@@ -1,0 +1,2 @@
+## Niech interpretacja $A$ i interpretacja $A^*$ różnią się tylko tym, że $A$ przypisuje przedmiot o zmiennej $v$, a interpretacja $A^*$ przypisuje zmiennej $v$ przedmiot $o^*$. 
+## Jeśli zdanie $z$ jest prawdziwe w $A$ i nieprawdziwe w $A^*$ to wtedy $o$ i $o^*$ nie są **identyczne**.

@@ -6,3 +6,5 @@
 ## **Przykłady**:
 ### (i) $(X,d)$ - przestrzeń topologiczna, $|X|>1$. **Topologia dyskretna** to $\mathcal{T}_d(X)=\mathcal{P}(X)$. **Topologia antydyskretna** to $\mathcal{T}_{ad}(X)=\{\emptyset,X\}$
 ### (ii) [[Topologia euklidesowa]]
+### (iii) [[Topologia Zariskiego]]
+### (iv) [[!Topologia strzałki]]

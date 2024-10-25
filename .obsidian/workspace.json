@@ -4,18 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0cda7fbf554efc",
+        "id": "fc005fa2cb5ae511",
         "type": "tabs",
         "children": [
           {
-            "id": "9e983782b90f7f3b",
+            "id": "601588da02e5f30a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "in progress/Domknięcie zbioru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domknięcie zbioru"
+            }
+          },
+          {
+            "id": "e95962964cfcfaab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asap/Miara zewnętrzna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miara zewnętrzna"
+            }
+          },
+          {
+            "id": "7e10f12964979fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asap/Miara Lebesque'a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miara Lebesque'a"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -35,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -50,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Szukaj"
             }
           },
           {
@@ -58,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Zakładki"
             }
           }
         ]
@@ -88,7 +129,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne"
             }
           },
           {
@@ -99,7 +142,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące"
             }
           },
           {
@@ -110,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
             }
           },
           {
@@ -118,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Zarys"
             }
           }
         ]
@@ -138,6 +187,36 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "9e983782b90f7f3b",
-  "lastOpenFiles": []
+  "active": "8bb31b4063848550",
+  "lastOpenFiles": [
+    "asap/Miara zewnętrzna.md",
+    "asap/Miara Lebesque'a.md",
+    "in progress/Domknięcie zbioru.md",
+    "asap",
+    "notatki/Przestrzeń topologiczna.md",
+    "in progress/Otoczenie.md",
+    "komentarze/komentarz 4.md",
+    "notatki/Zbiór domknięty.md",
+    "notatki/Warunek Lipschitza.md",
+    "in progress/!Zbiór gęsty.md",
+    "in progress/!Broda Platona.md",
+    "in progress/!Topologia strzałki.md",
+    "notatki/Topologia.md",
+    "notatki/Topologia euklidesowa.md",
+    "notatki/Topologia Zariskiego.md",
+    "komentarze/komentarz 1.md",
+    "notatki/!Wnętrze i brzeg zbioru.md",
+    "komentarze/komentarz 2.md",
+    "komentarze/komentarz 3.md",
+    "notatki/Iniekcja.md",
+    "notatki/Norma.md",
+    "in progress/!Homomorfizm grup.md",
+    "in progress/!Baza ortonormalna.md",
+    "in progress/!Automorfizm.md",
+    "in progress/!!Macierz.md",
+    "in progress/!!Forma dwuliniowa.md",
+    "in progress/!!Definicje funkcji elementarnych.md",
+    "in progress",
+    "komentarze"
+  ]
 }

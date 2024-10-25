@@ -1,1 +1,1 @@
-## Zbiór $K \subseteq \mathbb{R}^n$ jest [[Zbiór domknięty|domknięty]] $\iff$ granica każdego [[!Zbieżność|zbieżnego]] [[Ciąg|ciągu]] elementów $K$ również należy do $K$.
+## Zbiór $K \subseteq \mathbb{R}^n$ jest [[Zbiór domknięty|domknięty]] $\iff$ granica każdego [[Zbieżność|zbieżnego]] [[Ciąg|ciągu]] elementów $K$ również należy do $K$.

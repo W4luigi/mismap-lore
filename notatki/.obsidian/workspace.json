@@ -55,86 +55,198 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Macierz.md",
+                "file": "Twierdzenie Weierstrassa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Macierz"
+              "title": "Twierdzenie Weierstrassa"
             }
           },
           {
-            "id": "ba17ced93f95c26e",
+            "id": "d5d0d96fe08a3d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Ciało skończone.md",
+                "file": "Twierdzenie Cantora o jednostajnej ciągłości.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Ciało skończone"
+              "title": "Twierdzenie Cantora o jednostajnej ciągłości"
             }
           },
           {
-            "id": "93e37e8fdc42bec3",
+            "id": "878c48248051ed26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Ciąg funkcyjny.md",
+                "file": "Twierdzenie o funkcji ciągłej ze zbioru zwartego.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Ciąg funkcyjny"
+              "title": "Twierdzenie o funkcji ciągłej ze zbioru zwartego"
             }
           },
           {
-            "id": "dcfae7b6cdd04e88",
+            "id": "39f400ae7282e53c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Iloczyn hermitowski.md",
+                "file": "Pochodna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Iloczyn hermitowski"
+              "title": "Pochodna"
             }
           },
           {
-            "id": "adc4ad3855e2e952",
+            "id": "fce4870b095d75fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forma półtoraliniowa.md",
+                "file": "Macierz Jakobiego.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forma półtoraliniowa"
+              "title": "Macierz Jakobiego"
             }
           },
           {
-            "id": "c32480ee911700c9",
+            "id": "4ca1260a3ecb2748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Automorfizm.md",
+                "file": "Gradient funkcji wielu zmiennych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Automorfizm"
+              "title": "Gradient funkcji wielu zmiennych"
+            }
+          },
+          {
+            "id": "5bc152e5d6e7560d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gorgiasz Platona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gorgiasz Platona"
+            }
+          },
+          {
+            "id": "ed9198a398984608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medytacje o pierwszej filozofii Kartezjusza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medytacje o pierwszej filozofii Kartezjusza"
+            }
+          },
+          {
+            "id": "b49caca64d837678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broda Platona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broda Platona"
+            }
+          },
+          {
+            "id": "1e1559fc2f275927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Co istnieje - Quine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Co istnieje - Quine"
+            }
+          },
+          {
+            "id": "d0c66e478d6628b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Istnienie i identyczność - Odrowąż-Sypniewska.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Istnienie i identyczność - Odrowąż-Sypniewska"
+            }
+          },
+          {
+            "id": "01d67e9e51f30f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metajęzykowa zasada podstawialności.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metajęzykowa zasada podstawialności"
+            }
+          },
+          {
+            "id": "2c1b4ab76a1c3166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zasady Leibniza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zasady Leibniza"
+            }
+          },
+          {
+            "id": "014c2bdf34aa7201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zasady Leibniza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zasady Leibniza"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -165,7 +277,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "haus",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -190,7 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 393.5
   },
   "right": {
     "id": "81baae406cc65f45",
@@ -252,17 +364,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Przestrzeń topologiczna.md"
+                "file": "Medytacje o pierwszej filozofii Kartezjusza.md"
               },
               "icon": "lucide-list",
-              "title": "Zarys Przestrzeń topologiczna"
+              "title": "Zarys Medytacje o pierwszej filozofii Kartezjusza"
+            }
+          },
+          {
+            "id": "411350ae3c25d1f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie właściwości"
+            }
+          },
+          {
+            "id": "272505fa73c6bbe0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -272,37 +409,38 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "command-palette:Otwórz paletę poleceń": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adc4ad3855e2e952",
+  "active": "3e256e96eafae490",
   "lastOpenFiles": [
-    "!Ciąg funkcyjny.md",
-    "!Iloczyn hermitowski.md",
-    "Forma półtoraliniowa.md",
-    "!Ciało skończone.md",
-    "!Grupa kokwaternionów.md",
-    "!Pochodna.md",
-    "!Klasyczna logika 1-go rzędu.md",
-    "!Język klasycznego rachunku zdań.md",
-    "Przestrzeń liniowa.md",
-    "!Iloczyn macierzy.md",
-    "!Charakterystyka.md",
-    "!Automorfizm.md",
-    "!!komentarz 1.md",
-    "!!komentarz 2.md",
-    "!!komentarz 3.md",
-    "Elementy wyróżnione porządków.md",
-    "delta-sieć.md",
-    "dddn.md",
+    "Zasada identyczności przedmiotów nieodróżnialnych Leibniza.md",
+    "Zasady Leibniza.md",
+    "Identyczność.md",
+    "Metajęzykowa zasada podstawialności.md",
+    "Istnienie i identyczność - Odrowąż-Sypniewska.md",
+    "Broda Platona.md",
+    "Co istnieje - Quine.md",
+    "!!Macierz.md",
+    "Medytacje o pierwszej filozofii Kartezjusza.md",
+    "!Logika lore.md",
+    "!Standardowe logiki modalne.md",
+    "Iloraz różnicowy.md",
+    "Gorgiasz Platona.md",
+    "Gradient funkcji wielu zmiennych.md",
+    "Intuicja.md",
+    "Bez nazwy.md",
+    "!Nierówność Jensena.md",
+    "Zbiór wypukły.md",
+    "Funkcja wypukła.md",
+    "Ciąg.md",
     "Ciało zbiorów.md",
     "Ciało przemienne.md",
-    "Całki Fresnela.md",
-    "Całka Riemanna.md",
-    "Całka niewłaściwa.md",
-    "Całka Leibniza - Newtona.md",
     "Całka Dirichleta.md",
     "Bijekcja.md",
+    "Algebry podobne.md",
+    "Baza otoczeń punktu w przestrzeni topologicznej.md",
     "Twierdzenia o ciągach liczbowych",
     "Funkcje rzeczywiste/Bez nazwy",
     "Funkcje rzeczywiste",
