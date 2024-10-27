@@ -1,1 +1,1 @@
-## Parę $(V, <,>)$, gdzie $V$ jest skończenie wymiarową [[Przestrzeń liniowa|przestrzenią liniową]] nad $\mathbb{C}$, a $<|>$ jest [[!Iloczyn hermitowski|iloczynem hermitowskim]] nazywamy **przestrzenią unitarną**.
+## Parę $(V, \langle|\rangle)$, gdzie $V$ jest skończenie wymiarową [[!Przestrzeń liniowa|przestrzenią liniową]] nad $\mathbb{C}$, a $\langle|\rangle$ jest [[!Iloczyn hermitowski|iloczynem hermitowskim]] nazywamy **przestrzenią unitarną**.

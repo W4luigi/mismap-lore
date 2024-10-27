@@ -1,0 +1,2 @@
+## Niech $\mu^*$ będzie [[Miara zewnętrzna|miarą zewnętrzną]] na $X$, $A\subseteq X$.
+## Mówimy, że zbiór $A$ **spełnia warunek Caratheodory'ego** wtedy i tylko wtedy, gdy $\forall {Z\in X}$: $$\mu^* (Z)=\mu^*(Z\cap A) +\mu^*(Z\backslash A)$$

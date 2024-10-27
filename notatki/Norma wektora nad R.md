@@ -1,6 +1,6 @@
-## Niech $<,>$ będzie [[Iloczyn skalarny|iloczynem skalarnym]] na [[Przestrzeń liniowa|przestrzeni]] $V$ nad $\mathbb{R}$, $\alpha \in V$. **Normą wektora** $\alpha$ nazywamy liczbę $||\alpha|| = \sqrt{<\alpha,\alpha>}$
+## Niech $(V,\langle,\rangle)$ będzie [[Przestrzeń euklidesowa liniowa|przestrzenią euklidesową liniową]] nad [[Ciało przemienne|ciałem]] $\mathbb{R}$, $\alpha \in V$. **Normą wektora** $\alpha$ nazywamy liczbę $||\alpha|| = \sqrt{\langle\alpha,\alpha\rangle}$
 
-## **[[Długość wektora|Długością wektora]]** $\alpha$ nazywamy normę wektora $\alpha$, gdy $<,>$ jest [[Standardowy iloczyn skalarny|standardowym iloczynem skalarnym]].
+## **Długością wektora** $\alpha$ nazywamy normę wektora $\alpha$, gdy $\langle,\rangle$ jest [[Standardowy iloczyn skalarny|standardowym iloczynem skalarnym]].
 
 ## Norma wektora jest [[Norma|normą]].
 

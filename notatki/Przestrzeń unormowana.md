@@ -1,1 +1,1 @@
-## **Przestrzenią unormowaną** nazywamy parę:  $(V,||\cdot||)$, gdzie $V$ jest [[Przestrzeń liniowa|przestrzenią liniową]] a $||\cdot||$ jest [[Norma|normą]] nad $V$
+## **Przestrzenią unormowaną** nazywamy parę:  $(V,||\cdot||)$, gdzie $V$ jest [[!Przestrzeń liniowa|przestrzenią liniową]] a $||\cdot||$ jest [[Norma|normą]] nad $V$

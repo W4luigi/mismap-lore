@@ -1,4 +1,4 @@
-## Niech $A\subseteq\mathbb{R}$, $f:A\to\mathbb{R}$ będzie  [[Funkcja rzeczywista jednej zmiennej|funkcja rzeczywistą jednej zmiennej]], $p\in\overline{\mathbb{R}}$ jest [[Punkt skupienia|punktem skupienia]] zbioru $A$.
+## Niech $A\subseteq\mathbb{R}$, $f:A\to\mathbb{R}$ będzie  [[Funkcja rzeczywista jednej zmiennej|funkcja rzeczywistą jednej zmiennej]], $p\in\overline{\mathbb{R}}$ jest [[Punkt skupienia zbioru|punktem skupienia]] zbioru $A$.
 # 1.  **Definicja Heinego**:
 ## Powiemy, że funkcja $f$ ma **granicę w punkcie $p$ równą** $g$ wtedy i tylko wtedy, gdy dla każdego [[Ciąg|ciągu]] $(x_n)_{n\in\mathbb{N}}\subseteq A\backslash\{p\}$ [[Zbieżność|zbieżnego]] do $p$, granica $\lim_{n\to\infty}f(x_n)$ istnieje i jest równa $g$.
 ##  Powiemy, że $f$ ma w $p$ **granicę lewostronną (prawostronną)** $\lim_{x\to p^-}f(x)=g$ ($\lim_{x\to p^+}f(x)=g$), gdy ciąg $(x_n)_{n\in\mathbb{N}}\subseteq A\backslash\{p\}$ jest obłożony warunkiem $\forall{n\in\mathbb{N}}:x_n<p$ ($x_n>p$) i zachodzi $\lim_{n\to\infty}f(x_n)=g$

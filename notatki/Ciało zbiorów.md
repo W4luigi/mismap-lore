@@ -1,14 +1,13 @@
-## Rodzinę $\mathcal{F}$ podzbiorów ustalonej rodziny $S$ nazywamy **ciałem zbiorów**, **ciałem podzbiorów $S$**, jeśli spełnia:
-### (1) $S \in \mathcal{F}$
-### (2) Jeśli $A,B \in \mathcal{F}$ to $A\cup B \in \mathcal{F}$
-### (3) Jeśli $A  \in \mathcal{F}$ to $A^{\complement}=X\backslash A \in \mathcal{F}$ 
-## Wnioski:
-### (a) Z (1) i (3):  $\emptyset \in \mathcal{F}$
-### (b) Rodzina $\{\emptyset, S\}$ jest ciałem podzbiorów $S$
-### (c) Rodzina $\mathcal{P}(S)$ jest ciałem podzbiorów $S$
-### (d) Jeśli $\mathcal{F}$ jest ciałem podzbiorów $S$, to $\{\emptyset,S\} \subseteq \mathcal{F} \subseteq \mathcal{P}(S)$ 
-## **Twierdzenie**
-### Niech $\mathcal{B}$ będzie dowolną rodziną podzbiorów przestrzeni $S$:  $\mathcal{B} \subseteq \mathcal{P}(S)$. Istnieje $\mathcal{A}$ zawierające rodzinę $\mathcal{B}$, tj. zbiór: o własnościach:
-#### (1) $\mathcal{B}\subseteq \mathcal{A}$
-#### (2) Jeśli $\mathcal{C}$ jest ciałem zbiorów i $\mathcal{B} \subseteq \mathcal{C}$, to $\mathcal{A} \subseteq \mathcal{C}$
-## Najmniejsze ciało podzbiorów rodziny $S$ nazywamy **ciałem zbiorów generowanym przez rodzinę $\mathcal{B}$**.
+## Niech $X$ będzie zbiorem niepustym.
+## Rodzina zbiorów $\mathscr{F} \subseteq 2^{X}$ jest **ciałem zbiorów**, **ciałem podzbiorów** $X$ wtedy i tylko wtedy, gdy: 
+### (1) $\emptyset \in \mathscr{F}$
+### (2) Jeśli $A,B \in \mathcal{F}$ to $A\cup B \in \mathscr{F}$
+### (3) Jeśli $A  \in \mathscr{F}$ to $A^{\complement}=X\backslash A \in \mathscr{F}$ 
+## **Wnioski:**
+### (a) Z (1) i (3):  $X \in \mathscr{F}$
+### (b) Rodzina $\{\emptyset, X\}$ jest ciałem podzbiorów $X$
+### (c) Rodzina $2^{X}$ jest ciałem podzbiorów $X$
+### (d) Jeśli $\mathscr{F}$ jest ciałem podzbiorów $X$, to $\{\emptyset,X\} \subseteq \mathscr{F} \subseteq \mathcal{P}(X)$ 
+## **Uwaga:** Jeśli $\mathscr{F}$ jest ciałem zbiorów, $A,B\in \mathscr{F}$ to:
+### (i) $A\cap B\in\mathscr{F}$  
+### (ii) $A\backslash B\in\mathscr{F}$

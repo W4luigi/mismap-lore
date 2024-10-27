@@ -1,0 +1,4 @@
+## Niech $\mathscr{G}\subseteq 2^{X}$.
+## [[Ciało zbiorów]] *([[sigma-ciało]])* $\sigma(\mathscr{G})$ nazywamy **ciałem** *($\sigma$-ciałem)* **generowanym przez rodzinę** $\mathscr{G}$ wtedy i tylko wtedy, gdy jest [[Elementy wyróżnione porządków|najmniejszym]] (ze względu na inkluzję $\subseteq$ w zbiorze ciał *($\sigma$-ciał)* nad $X$) ciałem *($\sigma$-ciałem)* zawierającym każdy zbiór należący do $\mathscr{G}$
+## Równoważnie, można powiedzieć, że $\sigma(\mathscr{G})$ jest przecięciem wszystkich ciał *($\sigma$-ciał)* zawierających $\mathscr{G}$
+## Niech $\mathcal{F}=\{\mathscr{F}\in\mathscr{G}:\mathscr{F}$ jest ciałem *($\sigma$-ciałem)*$\}$. Wówczas: $$\sigma(\mathscr{G})=\bigcap_{\mathscr{F}\in\mathcal{F}}\mathscr{F}=\min_{\mathscr{F}\in\mathscr{G},\subseteq}{\mathscr{F}}$$

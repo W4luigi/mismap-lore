@@ -1,0 +1,1 @@
+## Niech $\mu^*$ będzie [[Miara zewnętrzna|miarą zewnętrzną]] na $X$

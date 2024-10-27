@@ -2,12 +2,14 @@
 
 # **Wstęp**
 ## (1) **Relacja równości**: $\forall_{A,B}:(A=B\iff{\forall_{x}:(x\in{A}\iff{x\in{B}})})$
-## (2) **Schemat definiowania przez wyróżnienie:** *by uniknąć paradoksów, np. $A = \{x:W(x)\}$ może nie zawsze tworzyć zbiór: własność $W(x):=$"nie jest swoim własnym elementem" jest wyrażalna w języku [[!Teoria pierwszego rzędu|teorii pierwszego rzędu]], ale prowadzi do sprzeczności: $B$ jednocześnie *jest* i *nie jest* swoim własnym elementem. Zatem, by uniknąć sprzeczności, poprawny **schemat definiowania przez wyróżnienie** ma postać: $A=\{x\in{B}:W(x)\}$.
-## (3) **Istnienie pary uporządkowanej**: *$(a,b)$ jest parą uporządkowaną z **poprzednikiem** $a$ i **następnikiem** $b$. Wyróżniona konstrukcja: $(a,b)=\{a,\{a,b\}\}$. Z pary konstruuje się **trójkę uporządkowaną** $(a,b,c)=(a,(b,c))$, **czwórkę uporządkowaną** $(a,b,c,d)=(a,(b,c,d))$, i tak dalej.*
+## (2) **Schemat definiowania przez wyróżnienie:** by uniknąć paradoksów, np. $A = \{x:W(x)\}$ może nie zawsze tworzyć zbiór: własność $W(x):=$"nie jest swoim własnym elementem" jest wyrażalna w języku [[!Teoria pierwszego rzędu|teorii pierwszego rzędu]], ale prowadzi do sprzeczności: $B$ jednocześnie jest i nie jest swoim własnym elementem. Zatem, by uniknąć sprzeczności, poprawny **schemat definiowania przez wyróżnienie** ma postać: $A=\{x\in{B}:W(x)\}$.
+## (3) **Istnienie pary uporządkowanej**: $(a,b)$ jest parą uporządkowaną z **poprzednikiem** $a$ i **następnikiem** $b$
+### Wyróżniona konstrukcją pary jest: $(a,b)=\{a,\{a,b\}\}$. 
+### Z pary konstruuje się **trójkę uporządkowaną** $(a,b,c)=(a,(b,c))$, **czwórkę uporządkowaną** $(a,b,c,d)=(a,(b,c,d))$, i tak dalej.
 ## **Operacje na zbiorach**:
 ### (i) **Suma zbiorów**: $A\cup{}B = \{x:x\in{}A\vee{}x\in{}B\}$
 ### (ii) **Iloczyn, przecięcie, część wspólna zbiorów**: $A\cap{}B = \{x:x\in{}A\wedge{}x\in{}B\}$
-### (iii) **Zbiór potęgowy**: $\mathcal{P}(A) = \{x: x\subseteq A\}$
+### (iii) **Zbiór potęgowy**: $\mathcal{P}(A) =2^{A} = \{x: x\subseteq A\}$
 ### (iv) **Różnica zbiorów**: $x \in A \backslash B \iff x \in A \wedge x \notin B$
 ### (v) **Różnica symetryczna**: $A \ominus B = (A \backslash B) \cup (B \backslash A) = (A \cup B) \backslash (A \cap B)$
 ### (vi) **Suma rodziny zbiorów**: $\bigcup\mathcal{A} = \{x:\exists_{A\in\mathcal{A}}:x\in{}A\}$

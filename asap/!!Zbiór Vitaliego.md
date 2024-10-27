@@ -1,0 +1,1 @@
+## Rozważmy [[Relacja równoważności|relację równoważności]] $\sim$ na $\mathbb{R}$: $x\sim{}y\iff{}x-y\in\mathbb{Q}$. Relacja ma [[Zbiór mocy continuum|nieprzeliczalnie wiele]] [[Klasa równoważności|klas abstrakcji]]. 

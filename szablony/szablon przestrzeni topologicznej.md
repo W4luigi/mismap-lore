@@ -1,0 +1,1 @@
+## Niech $(X,\mathcal{T})$ będzie [[Przestrzeń topologiczna|przestrzenią topologiczną]]

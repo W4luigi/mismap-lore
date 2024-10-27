@@ -1,2 +1,2 @@
-## Niech $A\subseteq\mathbb{R}$, $f,g,h:A\to\mathbb{R}$ będą [[Funkcja rzeczywista jednej zmiennej|funkcjami rzeczywistymi]], $p\in A$ jest [[Punkt skupienia|punktem skupienia]] $A$.
+## Niech $A\subseteq\mathbb{R}$, $f,g,h:A\to\mathbb{R}$ będą [[Funkcja rzeczywista jednej zmiennej|funkcjami rzeczywistymi]], $p\in A$ jest [[Punkt skupienia zbioru|punktem skupienia]] $A$.
 ## **Twierdzenie**: jeśli $\forall x\in A: f(x)\leq h(x) \leq g(x)$ oraz $\lim_{x\to p}f(x)=\lim_{x\to p}g(x)$ to $\lim_{x\to p}f(x)=\lim_{x\to p}h(x)=\lim_{x\to p}g(x)$, tj. [[Granica funkcji rzeczywistej jednej zmiennej|granica]] $h$ w $p$ istnieje i jest im równa.

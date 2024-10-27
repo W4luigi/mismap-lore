@@ -1,4 +1,5 @@
-## Algebra $K = (X,0,1,+,\cdot)$   jest ciałem przemiennym, gdy spełnione są aksjomaty:
+## Niech $X\neq\emptyset$ będzie ustalonym zbiorem.
+## [[Algebra]] $K = (X,0,1,+,\cdot)$   jest ciałem przemiennym, gdy spełnione są aksjomaty:
 ### A.1 $\forall_{x,y \in X}: x+y = y+x$
 ### A.2 $\forall_{x,y,z \in X}: x+(y+z) = (x+y)+z$
 ### A.3 $\forall_{x \in X}: x+0 = x$

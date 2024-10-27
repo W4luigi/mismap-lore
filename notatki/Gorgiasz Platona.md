@@ -1,6 +1,6 @@
 # **Ćwiczenia**: 
 - Gorgiasz (jak to [[Platon]]) nie jest **do końca** dialogiem, tj. monologiem, ale jest bliżej prawdziwego dialogu niż późniejszy Platon
-- [[Intuicja]] jest rodzajem myślenia (holistycznego)
+- [[!Intuicja]] jest rodzajem myślenia (holistycznego)
 - Akrasja ([[Arystoteles]]) - słaba wola 
 - Czy jest naturalistyczne wytłumaczenie sprawiedliwości - czy jest adekwatne?
 - Ciekawy take, że platońska sprawiedliwość i podział na *role społeczne* odpowiada częścią duszy jest odpowiedzią na sofistów, którzy zajmują się *wszystkim*

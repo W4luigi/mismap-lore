@@ -4,53 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "fc005fa2cb5ae511",
+        "id": "12a0e7724007bf65",
         "type": "tabs",
         "children": [
           {
-            "id": "601588da02e5f30a",
+            "id": "cd4f9b845f0a1bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "in progress/Domknięcie zbioru.md",
+                "file": "notatki/Pochodna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domknięcie zbioru"
+              "title": "Pochodna"
             }
           },
           {
-            "id": "e95962964cfcfaab",
+            "id": "dbb2f2960d26c5c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asap/Miara zewnętrzna.md",
+                "file": "notatki/Różniczkowalność funkcji rzeczywistej wielu zmiennych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miara zewnętrzna"
+              "title": "Różniczkowalność funkcji rzeczywistej wielu zmiennych"
             }
           },
           {
-            "id": "7e10f12964979fff",
+            "id": "0c438dcefbe2f0c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asap/Miara Lebesque'a.md",
+                "file": "notatki/Pochodna kierunkowa funkcji rzeczywistej wielu zmiennych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miara Lebesque'a"
+              "title": "Pochodna kierunkowa funkcji rzeczywistej wielu zmiennych"
+            }
+          },
+          {
+            "id": "7edddbed6edf1b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notatki/Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych"
+            }
+          },
+          {
+            "id": "a8b9e10078f5bb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notatki/Pochodna funkcji rzeczywistej jednej zmiennej.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pochodna funkcji rzeczywistej jednej zmiennej"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,9 +111,9 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -184,38 +212,41 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "command-palette:Otwórz paletę poleceń": false,
+      "random-note:Otwórz losową notatkę": false
     }
   },
   "active": "8bb31b4063848550",
   "lastOpenFiles": [
-    "asap/Miara zewnętrzna.md",
-    "asap/Miara Lebesque'a.md",
-    "in progress/Domknięcie zbioru.md",
+    "notatki/Pochodna.md",
+    "notatki/Pochodna funkcji rzeczywistej jednej zmiennej.md",
+    "notatki/Pochodna kierunkowa funkcji rzeczywistej wielu zmiennych.md",
+    "notatki/Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych.md",
+    "notatki/Różniczkowalność funkcji rzeczywistej wielu zmiennych.md",
+    "notatki/Funkcja rzeczywista jednej zmiennej.md",
+    "asap/!!Macierz Jakobiego.md",
+    "asap/!!Istnienie i identyczność - Odrowąż-Sypniewska.md",
+    "asap/!!Metajęzykowa zasada podstawialności.md",
+    "asap/!!Pokrycie zbioru.md",
+    "asap/!!Przestrzeń metryzowalna.md",
+    "asap/!!Przestrzeń zwarta.md",
+    "asap/!!Punkt skupienia ciągu.md",
+    "asap/!!Twierdzenie Tietzego.md",
+    "asap/!!Wnętrze i brzeg zbioru.md",
+    "asap/!!Zasady Leibniza.md",
+    "asap/!!Zbiór Vitaliego.md",
+    "asap/!!Baza otoczeń punktu w przestrzeni topologicznej.md",
+    "szablony/szablon miary zewnętrznej.md",
+    "szablony/szablon przestrzeni metrycznej.md",
+    "szablony/szablon przestrzeni topologicznej.md",
+    "szablony/miara lebesque'a.md",
+    "szablony/Rn.md",
+    "notatki/Charakteryzacja zbiorów mierzalnych w sensie Lebesque'a.md",
+    "notatki/Zbiór mierzalny.md",
+    "notatki/sigma-ciało zbiorów mierzalnych.md",
+    "szablony",
+    "szablony",
     "asap",
-    "notatki/Przestrzeń topologiczna.md",
-    "in progress/Otoczenie.md",
-    "komentarze/komentarz 4.md",
-    "notatki/Zbiór domknięty.md",
-    "notatki/Warunek Lipschitza.md",
-    "in progress/!Zbiór gęsty.md",
-    "in progress/!Broda Platona.md",
-    "in progress/!Topologia strzałki.md",
-    "notatki/Topologia.md",
-    "notatki/Topologia euklidesowa.md",
-    "notatki/Topologia Zariskiego.md",
-    "komentarze/komentarz 1.md",
-    "notatki/!Wnętrze i brzeg zbioru.md",
-    "komentarze/komentarz 2.md",
-    "komentarze/komentarz 3.md",
-    "notatki/Iniekcja.md",
-    "notatki/Norma.md",
-    "in progress/!Homomorfizm grup.md",
-    "in progress/!Baza ortonormalna.md",
-    "in progress/!Automorfizm.md",
-    "in progress/!!Macierz.md",
-    "in progress/!!Forma dwuliniowa.md",
-    "in progress/!!Definicje funkcji elementarnych.md",
     "in progress",
     "komentarze"
   ]

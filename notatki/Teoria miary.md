@@ -9,4 +9,4 @@
 
 ## Niech w takim razie $\mu:\mathcal{P}(\mathbb{R}^n)\to[0,+\infty]$, spełniającej niezmienniczość ze względu na przesunięcia (ii), przeliczalną addytywność (iii), która zgadza się z pojęciem długości, pola, objętości, itd.
 ## Okazuje się, że taka funkcja **nie istnieje**.
-## **Kontrprzykład**: *[[!Zbiór Vitaliego]]*
+## **Kontrprzykład**: *[[!!Zbiór Vitaliego]]*

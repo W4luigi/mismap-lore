@@ -1,2 +1,2 @@
-## Niech $V$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] nad ciałem $\mathbb{F}$, $(V,d)$ - [[Przestrzeń metryczna|przestrzenią metryczną]] (w szczególności, $V$ jest ciałem $\mathbb{F}$)
+## Niech $V$ będzie [[!Przestrzeń liniowa|przestrzenią liniową]] nad ciałem $\mathbb{F}$, $(V,d)$ - [[Przestrzeń metryczna|przestrzenią metryczną]] (w szczególności, $V$ jest ciałem $\mathbb{F}$)
 ## Ciąg $(a_n)_{n\in\mathbb{N}} \subseteq V$ nazywamy **ciągiem Cauchy'ego względem metryki** $d$, jeśli spełnia: $$\forall_{\epsilon>0}\exists_{N\in\mathbb{N}}\forall_{n,m>N}: d(a_n,a_m) < \epsilon$$

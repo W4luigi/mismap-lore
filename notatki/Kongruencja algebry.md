@@ -5,7 +5,7 @@
 
 ## **Przykłady**:
 ### (1) Niech $n \in \mathbb{N}_+$ i $\equiv_n$ będzie relacją równoważności w zbiorze $\mathbb{Z}$: $l \equiv_n m \iff$liczby $l$ oraz $m$ mają taką samą resztę z dzielenia przez $n$. Wówczas $\equiv_n$ (relacja przystawania modulo) jest kongruencją w grupie $(\mathbb{Z},0,+)$ i w pierścieniu $(\mathbb{Z},0,1,+,\cdot)$
-### (2) Niech $\equiv$ będzie relacją w zbiorze $\mathcal{P}(\mathbb{N})$: $X \equiv Y \iff X \ominus{}Y<|\mathbb{N}|$. Wówczas $\equiv$ jest relacją równoważności oraz kongruencji w [[Pierścień zbiorów|pierścieniu zbiorów]] $(\mathcal{P}(\mathbb{N}),\emptyset,X, \dot -, \cap)$. 
+### (2) Niech $\equiv$ będzie relacją w zbiorze $\mathcal{P}(\mathbb{N})$: $X \equiv Y \iff X \ominus{}Y<|\mathbb{N}|$. Wówczas $\equiv$ jest relacją równoważności oraz kongruencji w [[Pierścień zbiorów|pierścieniu zbiorów]] $(\mathcal{P}(\mathbb{N}),\emptyset,X, \ominus, \cap)$. 
 ### (3) Niech relacja równoważności $\equiv$ będzie kongruencja w grupie $\mathbb{G} = (G,e, \circ)$. Niech $H=[e]$ będzie [[Klasa równoważności|klasą abstrakcji]] elementu neutralnego $e$ grupy $\mathbb{G}$. Wówczas $H$ ma własności:
 #### (a) $e \in H$
 #### (b) Jeśli $a \in H$ i  $b \in H$ to  $a \circ b \in H$
@@ -20,4 +20,4 @@
 ### Okazuje się, że zbiór ilorazowy $G/\equiv$ jest rodziną wszystkich warstw podgrupy $H$:
 #### (f) $G/\equiv = \{bH:b\in G\}$
 ###  Warstwy podgrupy $H$ to warstwy odwzorowania $b \mapsto [b]$ ze zbioru $G$ na zbiór $G/\equiv$.
-### Każda kongurencja wyznacza wzajemnie jednoznacznie jej dzielnik normalny.
+### Każda kongruencja wyznacza wzajemnie jednoznacznie jej dzielnik normalny.

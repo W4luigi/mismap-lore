@@ -1,8 +1,8 @@
 # 1. Przypadek [[Funkcja rzeczywista jednej zmiennej|funkcji rzeczywistej jednej zmiennej]]
 ## Niech $A\subseteq\mathbb{R}, f:A\to\mathbb{R}$, $p\in A$
 ## Funkcja $f$ jest **ciągła w punkcie** $p$ wtedy i tylko wtedy, gdy
-### (i) Punkt $p$ nie jest [[Punkt skupienia|punktem skupienia]] $A$.
-### (ii) Punkt $p$ jest [[Punkt skupienia|punktem skupienia]] $A$ i $f$ ma skończoną [[Granica funkcji rzeczywistej jednej zmiennej|granicę]] w punkcie $p$ równą $f(p)$.
+### (i) Punkt $p$ nie jest [[Punkt skupienia zbioru|punktem skupienia]] $A$.
+### (ii) Punkt $p$ jest [[Punkt skupienia zbioru|punktem skupienia]] $A$ i $f$ ma skończoną [[Granica funkcji rzeczywistej jednej zmiennej|granicę]] w punkcie $p$ równą $f(p)$.
 
 # 2. Przypadek [[Funkcja rzeczywista wielu zmiennych|funkcji rzeczywistej wielu zmiennych]]
 ## Niech $A\subseteq\mathbb{R}^n, f:A\to\mathbb{R}^m, p\in A$

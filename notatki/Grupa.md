@@ -7,9 +7,9 @@
 ## **Przykłady**:
 ### (i) [[Grupa permutacji]]
 ### (ii) [[Grupa cykliczna]]
-### (iii) [[Grupa macierzy odwracalnych]]
-### (iv) [[Grupa macierzy ortogonalnych]]
-### (v) [[Grupa macierzy ortogonalnych o wyznaczniku 1]]
+### (iii) [[!Grupa macierzy odwracalnych]]
+### (iv) [[!Grupa macierzy ortogonalnych]]
+### (v) [[!Grupa macierzy ortogonalnych o wyznaczniku 1]]
 ### (vi) [[!Grupa alterująca]]
 ### (vii) [[Grupa kwaternionów]]
 ### (viii) [[!Grupa kokwaternionów]]

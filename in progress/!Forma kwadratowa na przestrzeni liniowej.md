@@ -1,1 +1,1 @@
-## Niech $V$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] nad [[Ciało przemienne|ciałem]] $K$
+## Niech $V$ będzie [[!Przestrzeń liniowa|przestrzenią liniową]] nad [[Ciało przemienne|ciałem]] $K$

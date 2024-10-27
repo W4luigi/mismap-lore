@@ -1,0 +1,1 @@
+## Niech $(X,d)$ będzie [[Przestrzeń metryczna|przestrzenią metryczną]].
