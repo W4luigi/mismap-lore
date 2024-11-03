@@ -1,0 +1,3 @@
+## Niech $(X,\mathcal{T})$ będzie [[Przestrzeń topologiczna|przestrzenią topologiczną]]
+## $X$ ma **własność Hausdorffa**, **jest [[Przestrzeń Hausdorffa|przestrzenią Hausdorffa]]**, **jest $T_2$ przestrzenią** wtedy i tylko wtedy, gdy jeśli dla dowolnych dwóch różnych punktów $x,y$ istnieją rozłączne zbiory otwarte $U,V\in\mathcal{T}$, że $x\in U$, $y\in V$.
+## $X$ ma własność Hausdorffa wtedy i tylko wtedy, gdy: $$\forall{x,y\in X:x\neq y}:\exists{U,V\in\mathcal{T}:U\cap V=\emptyset:x\in U,y\in V}$$

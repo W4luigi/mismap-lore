@@ -1,0 +1,3 @@
+## **Stwierdzenie**: Niech $(X,\mathcal{T})$ będzie [[Przestrzeń topologiczna|przestrzenią topologiczną]], $A\subseteq X$ 
+### (i) Jeśli istnieje ciąg $(x_n)_{n\in\mathbb{N}}\subseteq A$, że $x\overset{d}{\to}x$, to wówczas $x_0 \in cl(A)$ *(patrz: [[Zbieżność w przestrzeni metrycznej]], [[Domknięcie zbioru]])*.
+### (ii) Jeśli $(X,\mathcal{T})$ spełnia [[I aksjomat przeliczalności]], to z faktu, że $x_0\in cl(A)$ wynika, że istnieje ciąg $(x_n)_{n\in\mathbb{N}}\subseteq A$, że $x\overset{d}{\to}x$.

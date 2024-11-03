@@ -1,0 +1,2 @@
+## Na gruncie języka $J$, zdanie $Z_2$ **wynika analitycznie** ze zdania $Z_1$ wtedy i tylko wtedy, gdy wynika wyłącznie ze względu na znaczenie, jakie w języku $J$ przysługuje terminom występującym w $Z_1$, $Z_2$.
+## [[Wynikanie logiczne na gruncie KRZ|Wynikanie logiczne]] to przykład wynikania analitycznego

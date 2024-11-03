@@ -1,0 +1,1 @@
+## **Twierdzenie:** Na gruncie [[Klasyczny rachunek zdań|KRZ]] dla dowolnej [[Formuła klasycznego rachunku zdań|formuły]] zachodzi: $$\vdash\alpha\iff\models\alpha$$*(patrz: [[Formuła dowodliwa]], [[Wynikanie logiczne na gruncie KRZ]])*

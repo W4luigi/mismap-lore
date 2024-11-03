@@ -1,0 +1,7 @@
+[[Ciągłość]]
+[[!!Wnętrze i brzeg zbioru]]
+[[Warunek Lipschitza]]
+[[Twierdzenie Heinego - Cantora]]
+[[Warunek Caratheodory'ego]] 
+[[Zbiór mierzalny]]
+[[!!Gradient funkcji wielu zmiennych]]

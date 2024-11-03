@@ -1,0 +1,1 @@
+## [[Formuła klasycznego rachunku zdań|Formuła]] $\alpha$ jest **dowodliwa** w [[Klasyczny rachunek zdań|KRZ]] ze zbioru formuł $X$ ($X \vdash \alpha$) wtedy i tylko wtedy, gdy istnieje dowód formalny $\alpha$ ze zbioru formuł $X$ w oparciu o zbiór [[Aksjomaty KRZ|aksjomatów KRZ]].

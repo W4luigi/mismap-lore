@@ -1,0 +1,2 @@
+## **Syntaktyka** bada relacje między znakami wewnątrz języka
+## **Własności syntaktyczne** to własności związane z budową znaku i jego relacje do innych znaków. Znaczenie znaków nie jest konieczne, by opisywać własności syntaktyczne.

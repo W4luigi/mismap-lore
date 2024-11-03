@@ -1,0 +1,1 @@
+## **Predykat** to [[Funktor|funktor]] funktor zdaniotwórczy od co najmniej jednego argumentu nazwowego.

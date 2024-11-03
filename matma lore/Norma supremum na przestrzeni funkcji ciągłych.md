@@ -1,0 +1,2 @@
+## Niech $C[a,b]$ będzie [[!Przestrzeń liniowa|przestrzenią liniową]] [[Liczby rzeczywiste|rzeczywistych]] ([[!Liczby zespolone|zespolonych]]) [[Ciągłość|funkcji ciągłych]] na odcinku $[a,b]$. 
+## Dla $f\in{}C[a,b]$ definiujemy $||\cdot||_\infty$ jako normę supremum:$$||f||_{\infty}=\sup_{t\in{}[a,b]}\{|f(t)|:\}$$

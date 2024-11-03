@@ -1,0 +1,2 @@
+## Niech $K \subseteq \mathbb{R}^n$ będzie [[Zbiór zwarty|zwarty]] a funkcja $f:K\rightarrow \mathbb{R}^m$ - [[Ciągłość|ciągła]]
+## **Twierdzenie**: $f$ jest [[Funkcja jednostajnie ciągła|jednostajnie ciągła]] na $K$.

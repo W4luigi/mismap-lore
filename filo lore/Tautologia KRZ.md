@@ -1,0 +1,1 @@
+## [[Formuła klasycznego rachunku zdań|Formułę]] nazywamy **tautologią** wtedy i tylko wtedy, gdy jest [[Spełnianie|spełniona]] przy każdym [[Wartościowanie języka KRZ|wartościowaniu języka KRZ]]

@@ -4,81 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "12a0e7724007bf65",
+        "id": "b36cce4e37378e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4f9b845f0a1bb4",
+            "id": "29ba874b092df06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notatki/Pochodna.md",
+                "file": "asap/Macierz Jacobiego.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pochodna"
+              "title": "Macierz Jacobiego"
             }
           },
           {
-            "id": "dbb2f2960d26c5c7",
+            "id": "311590894de238f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notatki/Różniczkowalność funkcji rzeczywistej wielu zmiennych.md",
+                "file": "asap/!!sigma-ciało zbiorów borelowskich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Różniczkowalność funkcji rzeczywistej wielu zmiennych"
+              "title": "!!sigma-ciało zbiorów borelowskich"
             }
           },
           {
-            "id": "0c438dcefbe2f0c3",
+            "id": "61110c22048bc276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notatki/Pochodna kierunkowa funkcji rzeczywistej wielu zmiennych.md",
+                "file": "asap/!!sigma-ciało zbiorów borelowskich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pochodna kierunkowa funkcji rzeczywistej wielu zmiennych"
-            }
-          },
-          {
-            "id": "7edddbed6edf1b14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notatki/Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych"
-            }
-          },
-          {
-            "id": "a8b9e10078f5bb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notatki/Pochodna funkcji rzeczywistej jednej zmiennej.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pochodna funkcji rzeczywistej jednej zmiennej"
+              "title": "!!sigma-ciało zbiorów borelowskich"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spełnia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -212,38 +184,38 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false,
-      "random-note:Otwórz losową notatkę": false
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
   "active": "8bb31b4063848550",
   "lastOpenFiles": [
-    "notatki/Pochodna.md",
-    "notatki/Pochodna funkcji rzeczywistej jednej zmiennej.md",
-    "notatki/Pochodna kierunkowa funkcji rzeczywistej wielu zmiennych.md",
-    "notatki/Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych.md",
-    "notatki/Różniczkowalność funkcji rzeczywistej wielu zmiennych.md",
-    "notatki/Funkcja rzeczywista jednej zmiennej.md",
-    "asap/!!Macierz Jakobiego.md",
-    "asap/!!Istnienie i identyczność - Odrowąż-Sypniewska.md",
-    "asap/!!Metajęzykowa zasada podstawialności.md",
-    "asap/!!Pokrycie zbioru.md",
-    "asap/!!Przestrzeń metryzowalna.md",
-    "asap/!!Przestrzeń zwarta.md",
-    "asap/!!Punkt skupienia ciągu.md",
-    "asap/!!Twierdzenie Tietzego.md",
-    "asap/!!Wnętrze i brzeg zbioru.md",
-    "asap/!!Zasady Leibniza.md",
-    "asap/!!Zbiór Vitaliego.md",
-    "asap/!!Baza otoczeń punktu w przestrzeni topologicznej.md",
-    "szablony/szablon miary zewnętrznej.md",
-    "szablony/szablon przestrzeni metrycznej.md",
-    "szablony/szablon przestrzeni topologicznej.md",
-    "szablony/miara lebesque'a.md",
-    "szablony/Rn.md",
-    "notatki/Charakteryzacja zbiorów mierzalnych w sensie Lebesque'a.md",
-    "notatki/Zbiór mierzalny.md",
-    "notatki/sigma-ciało zbiorów mierzalnych.md",
+    "!Przestrzeń borelowska.md",
+    "asap/!!sigma-ciało zbiorów borelowskich.md",
+    "matma lore/sigma-ciało.md",
+    "matma lore/Generowane ciało zbiorów.md",
+    "asap/Macierz Jacobiego.md",
+    "matma lore/sigma-ciało zbiorów mierzalnych.md",
+    "matma lore/Ciało zbiorów.md",
+    "matma lore/Sfera w Rn.md",
+    "matma lore/Podział zbioru.md",
+    "matma lore/Pochodna cząstkowa funkcji rzeczywistej wielu zmiennych.md",
+    "matma lore/Monoid.md",
+    "matma lore/Monotoniczność.md",
+    "matma lore/Iniekcja.md",
+    "matma lore/Homeomorfizm.md",
+    "matma lore/Grupa skończona.md",
+    "matma lore/Funkcja.md",
+    "matma lore/Forma półtoraliniowa.md",
+    "asap/!!Gradient funkcji wielu zmiennych.md",
+    "komentarze/komentarz 5.md",
+    "!!Twierdzenia o związkach między pochodnymi funkcji wielu zmiennych.md",
+    "in progress/!Wyznacznik.md",
+    "in progress/!Macierz.md",
+    "matma lore/Pochodna.md",
+    "matma lore/Różniczkowalność funkcji rzeczywistej wielu zmiennych.md",
+    "matma lore/Twierdzenia o różniczkowalności zupełnej.md",
+    "in progress/!Tłusty zbiór Cantora.md",
+    "filo lore",
     "szablony",
     "szablony",
     "asap",

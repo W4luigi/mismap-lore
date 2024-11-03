@@ -1,0 +1,2 @@
+## Niech $(X,d)$ będzie [[Przestrzeń metryczna|przestrzenią metryczną]], $x\in X$
+## Mówimy, że [[Ciąg|ciąg]] punktów $(x_n)_{n\in\mathbb{N}}$ przestrzeni $X$ jest **zbieżny do punktu** $x$ **w metryce** $d$: $x\overset{d}{\to}x$ wtedy i tylko wtedy, gdy: $$\forall_{\epsilon>0}\exists_{N\in\mathbb{N}}\forall_{m>N}:||a_m-g||<\epsilon$$[[Ciąg Cauchy'ego względem metryki]]

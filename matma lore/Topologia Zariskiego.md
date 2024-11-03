@@ -1,0 +1,2 @@
+## Niech $X$ będzie zbiorem [[Moc zbiorów|nieskończonym]]. 
+## [[Topologia|Topologię]] $\mathcal{T}_Z =\{\emptyset\}\cup\{U\subseteq X: |X\backslash U|=n\le\aleph_0\}$$=\{\emptyset\}\cup\{U\in X: U$ jest koskończone$\}$ nazywamy **topologią Zariskiego**, **topologią koskończoną**

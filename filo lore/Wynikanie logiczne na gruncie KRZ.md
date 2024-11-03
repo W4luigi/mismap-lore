@@ -1,0 +1,3 @@
+## [[Formuła klasycznego rachunku zdań|Formuła]] $\alpha$ **wynika logicznie** ze zbioru formuł $X$:$X\models\alpha$ wtedy i tylko wtedy, gdy dla dowolnego [[Wartościowanie języka KRZ|wartościowania języka KRZ]] $v$ zachodzi $v(X)=1\implies v(\alpha)=1$
+## **Twierdzenie:** dla dowolnych formuł $\alpha_1,\alpha_2,\dots,\alpha_n,\beta$ zachodzi zależność: $(\{\alpha_1,\alpha_2,\dots,\alpha_n\}\models\beta)\iff$ $\models(\alpha_1\wedge(\alpha_2\wedge\dots(\alpha_{n-1}\wedge\alpha_n)\dots))\implies\beta$
+## **Przykład:** $(p\wedge q)\models p$, bo $(p\wedge q)\implies p$ jest [[Tautologia KRZ|tautologią]]

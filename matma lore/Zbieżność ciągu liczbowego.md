@@ -1,0 +1,2 @@
+## Niech [[Ciało przemienne|ciało]] $K = \mathbb{R}$ lub $\mathbb{C}$:
+## Powiemy, że [[Ciąg|ciąg]] liczbowy $(a_n)_{n\in\mathbb{N}}\subseteq K$ jest **zbieżny do granicy** $g\in {K}$ $\lim_{n\to\infty}a_n=g$ wtedy i tylko wtedy, gdy $$\forall_{\epsilon>0}\exists_{N\in\mathbb{N}}\forall_{m>N}:|a_m-g|<\epsilon$$

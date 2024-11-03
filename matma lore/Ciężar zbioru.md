@@ -1,0 +1,2 @@
+## Niech $(X,\mathcal{T})$ będzie [[Przestrzeń topologiczna|przestrzenią topologiczną]]
+## **Ciężar** $w(X)$ **przestrzeni topologicznej** $(X,\mathcal{T})$ to minimalna [[Moc zbiorów|moc]] [[Baza topologii|bazy]] $X$

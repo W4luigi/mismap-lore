@@ -1,0 +1,1 @@
+## [[Spójnik]] jest **spójnikiem ekstensjonalnym**, **prawdziwościowym**, gdy wartość logiczna każdego zdania zbudowanego z jego pomocą jest zależna wyłącznie od wartości logicznej argumentów.

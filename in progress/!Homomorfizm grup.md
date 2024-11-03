@@ -1,5 +1,5 @@
 # kiedy homo a kiedy homeo??
-## Niech $G,K$ będą [[notatki/Grupa|grupami]], $f:G\to K$ 
+## Niech $G,K$ będą [[Grupa|grupami]], $f:G\to K$ 
 ## [[Funkcja|Funkcję]] $f$ nazwiemy **homomorfizmem grup** $G$ i $K$, $G\overset{f}{\hookrightarrow}H$  gdy: $$\forall_{a,b\in G}:f(a\cdot b)=f(a)\circ f(b)$$ Innymi słowy, grupy są homeomorficzne, gdy, potraktowane jako [[Algebra|algebry]], są [[Algebry izomorficzne|izomorficzne]].
 ## **Uwagi**:
 ### (i) Homomorfizm $f$ jest [[Iniekcja|różnowartościowy]], gdy jego [[Jądro homomorfizmu|jądro]] jest trywialne: $ker(f)=\{1\}$

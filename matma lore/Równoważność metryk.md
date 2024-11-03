@@ -1,0 +1,2 @@
+## Niech $X$ będzie ustalonym zbiorem i $d_1,d_2$ to dwie [[Metryka|metryki]] na $X$.
+## Mówimy, że metryki $d_1, d_2$ są **równoważne**, gdy $d_1\preceq d_2\wedge d_2\preceq d_1$, tj. $\mathcal{T}(d_1)=\mathcal{T}(d_2)$ *(patrz: [[Topologia przestrzeni metrycznej]], [[Dominacja metryk]])*

@@ -1,0 +1,1 @@
+## Niech $(X,<)$ będzie [[Porządek liniowy|zbiorem liniowo uporządkowanym]]

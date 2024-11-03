@@ -1,0 +1,1 @@
+## [[Spójnik]] jest **spójnikiem intensjonalnym**, **nieprawdziwościowym**, gdy nie jest [[Spójnik ekstensjonalny|ekstensjonalnym]]
